@@ -15,7 +15,7 @@ var canCompleteCircuit = function(gas, cost) {
             tank = 0;
         }
     }
-    console.log(start);
+    
     
     if(totalC > totalG){
         return -1;
