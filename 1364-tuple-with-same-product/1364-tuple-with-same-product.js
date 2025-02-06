@@ -23,7 +23,7 @@ var tupleSameProduct = function(nums) {
     let result = 0;
     for(const value of Object.values(prods)){
         if(value <= 1) continue;
-        result += (PERMS_PER_TUPLE * value * (value - 1));
+        result += (PERMS_PER_TUPLE * perm(value, 2));
     }
     return result;
 };
