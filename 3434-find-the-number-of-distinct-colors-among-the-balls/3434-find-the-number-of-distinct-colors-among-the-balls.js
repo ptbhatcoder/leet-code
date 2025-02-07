@@ -4,29 +4,21 @@
  * @return {number[]}
  */
 var queryResults = function(limit, queries) {
-    const colors = {};
-    const balls = {};
-    let uniq = 0;
+    const colors = new Map;
+    const balls = new Map;
     const result = queries.map(_ => 0);
-    for(let i = 0; i < queries.length; i++){
+    for(let i =0; i < queries.length; i++){
         const [ball, color] = queries[i];
-        const curColor = balls[ball];
-        if(curColor) {
-            colors[curColor]--;
-            if(colors[curColor] <= 0){
-                colors[curColor] = 0;
-                uniq--;
-            }
-        } 
-        
-        if(!colors[color]) {
-            uniq++;
-            colors[color] = 0;
+        if(balls.has(ball)){
+            const cur = balls.get(ball);
+            const remaining = colors.get(cur) - 1;
+            if(remaining > 0) colors.set(cur, remaining);
+            else colors.delete(cur);
         }
-
-        colors[color]++;
-        balls[ball] = color;
-        result[i] = uniq;
+        const count = colors.has(color) ? colors.get(color) : 0;
+        balls.set(ball, color);
+        colors.set(color, 1 + count);
+        result[i] = colors.size;
     }
     return result;
 };
