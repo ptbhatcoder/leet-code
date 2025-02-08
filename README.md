@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/ptbhatcoder/leet-code/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ptbhatcoder/leet-code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/ptbhatcoder/leet-code/tree/master/2434-design-a-number-container-system) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ptbhatcoder/leet-code/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
@@ -31,4 +32,16 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ptbhatcoder/leet-code/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/ptbhatcoder/leet-code/tree/master/2434-design-a-number-container-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/ptbhatcoder/leet-code/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/ptbhatcoder/leet-code/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
