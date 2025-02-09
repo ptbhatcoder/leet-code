@@ -8,9 +8,9 @@ var countBadPairs = function(nums) {
     const n = nums.length;
     for(let i = 0; i < n; i++){
         const diff = nums[i] - i;
-        if(!(diff in diffFrequency)) diffFrequency[diff] = 0;
-        valid += diffFrequency[diff];
-        diffFrequency[diff]++;
+        const cur = diffFrequency[diff] || 0;
+        valid += cur;
+        diffFrequency[diff] = 1 + cur;
     }
     return 0.5 * n * (n - 1) - valid;
 };
