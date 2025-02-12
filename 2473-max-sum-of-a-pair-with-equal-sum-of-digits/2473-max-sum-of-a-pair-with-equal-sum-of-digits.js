@@ -13,19 +13,14 @@ const getDigitSum = (n) => {
  * @return {number}
  */
 var maximumSum = function(nums) {
-    const maxPair = {};
+    const numWithDigitSum = {};
     let max = -1;
     for(const num of nums){
         const sum = getDigitSum(num);
-        let pair = maxPair[sum] || [];
-        if(pair.length < 2) pair.push(num);
-        else {
-            const mx = Math.max(...pair);
-            const mn = Math.min(...pair);
-            if(num >= mn) pair = [num, mx];
-        }
-        maxPair[sum] = pair;
-        if(pair.length === 2) max = Math.max(max, pair[0] + pair[1]);
+        if(sum in numWithDigitSum){
+            max = Math.max(max, num + numWithDigitSum[sum]);
+        } else numWithDigitSum[sum] = -Infinity;
+        numWithDigitSum[sum] = Math.max(numWithDigitSum[sum], num);
     }
     return max;
 };
