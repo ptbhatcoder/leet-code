@@ -1,5 +1,5 @@
 # leet-code
-Collection of LeetCode questions to ace the coding interview! 
+Live list showcasing a collection of LeetCode questions to ace the coding interview! This showcases my live work as I continue my daily streak.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
