@@ -12,6 +12,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1927-maximum-ascending-subarray-sum](https://github.com/ptbhatcoder/leet-code/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/ptbhatcoder/leet-code/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ptbhatcoder/leet-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ptbhatcoder/leet-code/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ptbhatcoder/leet-code/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ptbhatcoder/leet-code/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -40,6 +41,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ptbhatcoder/leet-code/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ptbhatcoder/leet-code/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/ptbhatcoder/leet-code/tree/master/3447-clear-digits) |
 ## Design
@@ -52,6 +54,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/ptbhatcoder/leet-code/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ptbhatcoder/leet-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Ordered Set
 |  |
 | ------- |
