@@ -3,11 +3,13 @@ const matchesPartition = (n, match) => {
         return match === n;
     }
     if(n === match) return true;
-    const str = new String(n);
-    for(let i = 1; i < str.length; i++){
-        const left = Number(str.slice(0, i));
-        const right = Number(str.slice(i));
-        if(matchesPartition(right, match - left)) return true;
+    let div = 10;
+    while(div < n){
+        const right = n % div;
+        const left = (n - right) / div;
+        const next = match - right;
+        if(matchesPartition(left, next)) return true;
+        div *= 10;
     }
     return false;
 }
