@@ -10,24 +10,27 @@ const hasSameSign = (a, b) => (a >= 0 && b  >= 0) || ( a<= 0 && b <= 0);
  * @return {string}
  */
 var smallestNumber = function(pattern) {
-    const n = pattern.length + 1;
-    const result = new Array(n).fill(0);
-    const visited = new Set;
-    const update = pos => {
-        if(pos >= n) return true;
-        if(result[pos] !== 0) return update(pos + 1);
-        for(let val = 1; val < 10; val++){
-            if(visited.has(val)) continue;
-            if(pos === 0 || (pos > 0 && hasSameSign(val - result[pos - 1], inc[pattern[pos - 1]]))){
-                visited.add(val);
-                result[pos] = val;
-                if(update(pos+1)) return true;
-                result[pos] = 0;
-                visited.delete(val);
-            } 
+    const p = pattern.length;
+    const n = p + 1;
+    const result = Array.from({ length: n }, (_, i) => i + 1);
+    const reverse = (s, e) => {
+        while(s < e){
+            [result[s], result[e]] = [result[e], result[s]];
+            s++;
+            e--;
         }
-        return false;
-    };
-    
-    return update(0) ? result.join('') : '';
+    }
+    let last = -1;
+    for(let i = 0; i < p; i++){
+        if(last === -1 && pattern[i] === 'D') last = i;
+        if(i === 0 || pattern[i] === pattern[i-1]) continue;
+        if(pattern[i] === 'I') {
+            reverse(last, i);
+            last = -1;
+        }
+    }
+    if(last !== -1){
+        reverse(last, p);
+    }
+    return result.join('');
 };
