@@ -11,15 +11,15 @@
  */
 var FindElements = function(root) {
     this.lookup = new Map;
-    const inorder = (node, val) => {
+    const repair = (node, val) => {
         if(!node) return;
         const twice = 2 * val;
-        inorder(node.left, twice + 1);
+        repair(node.left, twice + 1);
         node.val = val;
         this.lookup.set(val, node);
-        inorder(node.right, twice + 2);
+        repair(node.right, twice + 2);
     }
-    inorder(root, 0);
+    repair(root, 0);
 };
 
 /** 
