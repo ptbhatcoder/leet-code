@@ -11,28 +11,22 @@
  * @return {TreeNode}
  */
 var recoverFromPreorder = function(traversal) {
-    let cur = 0, level = 0;
-    const n = traversal.length;
-    const st = [];
-    for(let i = 0; i < n; i++){
-        const c = traversal[i];
-        if(c === '-'){
-            cur = 0;
-            level++;
-            continue;
+    const l = traversal.length;
+    const map = new Map;
+    const preorder = (pos, dashes, depth) => {
+        if(pos >= l) return [null, pos];
+        if(traversal[pos] === '-') return preorder(pos + 1, dashes + 1, depth);
+        if(!map.has(pos)) map.set(pos, dashes);
+        if(depth !== map.get(pos)) return [null, pos];
+        let cur = 0;
+        while(pos < l && traversal[pos] !== '-'){
+            cur = cur * 10  + Number(traversal[pos]);
+            pos++;
         }
-        cur = cur * 10 + Number(c);
-        if(i === n - 1 || traversal[i + 1] === '-'){
-            const node = new TreeNode(cur);
-            while(st.length > level) st.pop();
-            if(st.length > 0){
-                const parent = st.at(-1);
-                if(parent.left) parent.right = node;
-                else parent.left = node;
-            }
-            level = 0;
-            st.push(node);
-        }
+        const node = new TreeNode(cur);
+        [node.left, pos] = preorder(pos, 0, depth + 1);
+        [node.right, pos] = preorder(pos, 0, depth + 1);
+        return [node, pos];
     }
-    return st[0];
+    return preorder(0, 0, 0)[0];
 };
