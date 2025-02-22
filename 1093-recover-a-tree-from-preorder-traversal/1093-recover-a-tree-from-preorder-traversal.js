@@ -11,30 +11,28 @@
  * @return {TreeNode}
  */
 var recoverFromPreorder = function(traversal) {
+    let cur = 0, level = 0;
+    const n = traversal.length;
     const st = [];
-    let cur = 0, level = 0, prev = null;
-    const pushToStack = () => {
-        const node = new TreeNode(cur);
-        while(st.length > level) st.pop();
-        const parent = st.at(-1);
-        if(parent){
-            if(parent.left) parent.right = node;
-            else parent.left = node;
-        }
-        st.push(node);
-        level = 0;
-    }
-    for(const c of traversal){
+    for(let i = 0; i < n; i++){
+        const c = traversal[i];
         if(c === '-'){
-            if(prev !== c) pushToStack();
-            level++;
             cur = 0;
-        } else {
-            cur = cur * 10 + Number(c);
+            level++;
+            continue;
         }
-        prev = c;
+        cur = cur * 10 + Number(c);
+        if(i === n - 1 || traversal[i + 1] === '-'){
+            const node = new TreeNode(cur);
+            while(st.length > level) st.pop();
+            if(st.length > 0){
+                const parent = st.at(-1);
+                if(parent.left) parent.right = node;
+                else parent.left = node;
+            }
+            level = 0;
+            st.push(node);
+        }
     }
-    pushToStack();
-    while(st.length > 1) st.pop();
-    return st.at(-1);
+    return st[0];
 };
