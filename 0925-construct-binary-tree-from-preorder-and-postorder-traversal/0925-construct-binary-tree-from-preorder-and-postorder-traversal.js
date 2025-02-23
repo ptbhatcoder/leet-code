@@ -13,8 +13,14 @@
  */
 var constructFromPrePost = function(preorder, postorder) {
     const n = postorder.length;
-    const findIndex = (val, arr = preorder) => {
-        return arr.indexOf(val);
+    const pre = {};
+    const post = {};
+    for(let i = 0; i < n; i++){
+        pre[preorder[i]] = i;
+        post[postorder[i]] = i;
+    }
+    const findIndex = (val, dict) => {
+        return val in dict ? dict[val] : -1;
     }
     const buildForRange = (s, e) => {
         if(s > e) return null;
@@ -22,10 +28,10 @@ var constructFromPrePost = function(preorder, postorder) {
         if(s === e) return new TreeNode(postorder[s]);
         const val = postorder[e];
         const root = new TreeNode(val);
-        const leftIndex = findIndex(val, preorder) + 1;
+        const leftIndex = findIndex(val, pre) + 1;
         if(leftIndex < n){
             const left = preorder[leftIndex];
-            const postLeftIndex = findIndex(left, postorder);
+            const postLeftIndex = findIndex(left, post);
             root.left = buildForRange(s, postLeftIndex);
             root.right = buildForRange(postLeftIndex + 1, e-1);
         }
