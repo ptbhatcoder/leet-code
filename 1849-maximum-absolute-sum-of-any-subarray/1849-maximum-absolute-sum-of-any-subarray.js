@@ -4,9 +4,7 @@
  */
 var maxAbsoluteSum = function(nums) {
     let pos = 0, neg = 0, max = 0;
-    const n = nums.length;
-    for(let i = 0; i < n; i++){
-        const num = nums[i];
+    for(const num of nums){
         pos += num;
         neg += num;
         if(pos < 0) pos = 0;
