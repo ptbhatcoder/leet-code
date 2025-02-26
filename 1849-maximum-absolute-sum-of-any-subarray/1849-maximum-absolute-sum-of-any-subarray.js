@@ -9,8 +9,7 @@ var maxAbsoluteSum = function(nums) {
         neg += num;
         if(pos < 0) pos = 0;
         if(neg > 0) neg = 0;
-        if(pos > max) max = pos;
-        if(-neg > max) max = -neg;
+        max = Math.max(max, pos, -neg);
     }
     return max;
 };
