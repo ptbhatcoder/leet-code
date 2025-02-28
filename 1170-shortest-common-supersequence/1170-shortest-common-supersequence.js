@@ -4,40 +4,43 @@
  * @return {string}
  */
 var shortestCommonSupersequence = function(str1, str2) {
-    const len1 = str1.length; len2 = str2.length;
-    if(!len1) return str2;
-    if(!len2) return str1;
-
-    const lcs = Array.from({ length:len1 + 1 }, _ => Array.from({ length:len2 + 1 }, _ => 0));
-    for(let l1 = 1; l1 <= len1; l1++){
-        for(let l2 = 1; l2 <= len2; l2++){
-            const diag = str1[l1-1] === str2[l2-1] ?  1 : 0;
-            lcs[l1][l2] = Math.max(lcs[l1-1][l2], lcs[l1][l2-1], diag + lcs[l1-1][l2-1]);
+    const m = str1.length, n = str2.length;
+    const dp = Array.from({ length:m + 1 }, _ => Array.from({ length: n + 1 }, _ => Infinity));
+    for(let i = 0; i <= m; i++){
+        for(let j = 0; j <= n; j++){
+            if(i === 0) dp[i][j] = j;
+            else if(j === 0) dp[i][j] = i;
+            else if(str1[i-1] === str2[j-1]) dp[i][j] = 1 + dp[i-1][j-1];
+            else dp[i][j] = 1 + Math.min(dp[i-1][j], dp[i][j-1]);
         }
     }
-    const maxL = lcs[len1][len2];
-    const result = Array.from({ length: len1 + len2 - maxL }, _ => '');
-    let i1 = len1, i2 = len2;
-    const pos = [];
-    while(i1 && i2){
-        if(str1[i1-1] === str2[i2-1]  && lcs[i1][i2] === 1 + lcs[i1-1][i2-1]) {
-            pos.push(str2[i2-1]);
-            i1--;
-            i2--;
-        } else if(lcs[i1][i2] === lcs[i1-1][i2]) i1--;
-        else i2--;
+    const len = dp[m][n];
+    const res = new Array(len).fill('');
+    let i = m, j = n, idx = len-1;
+    for(; idx >= 0 && i > 0 && j > 0; idx--){
+        if(str1[i-1] === str2[j-1]){
+            res[idx] = str1[i-1];
+            i--;
+            j--;
+        } else if(dp[i-1][j] < dp[i][j-1]) {
+            res[idx] = str1[i-1];
+            i--;
+        } else {
+            res[idx] = str2[j-1];
+            j--;
+        }
     }
-    i1 = 0; i2 = 0;
-    let idx = 0;
-    while(pos.length > 0){
-        const c = pos.pop();
-        while(i1 < len1 && str1[i1] !== c) result[idx++] = str1[i1++];
-        while(i2 < len2 && str2[i2] !== c) result[idx++] = str2[i2++];
-        result[idx++] = c;
-        i1++;
-        i2++;
+    while(i > 0){
+        res[idx] = str1[i-1];
+        i--;
+        idx--;
     }
-    while(i1 < len1) result[idx++] = str1[i1++];
-    while(i2 < len2) result[idx++] = str2[i2++];
-    return result.join('');
+
+    while(j > 0){
+        res[idx] = str2[j-1];
+        j--;
+        idx--;
+    }
+
+    return res.join('');
 };
