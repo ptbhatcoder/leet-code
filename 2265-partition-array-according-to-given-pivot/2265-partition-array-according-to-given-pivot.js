@@ -10,6 +10,10 @@ var pivotArray = function(nums, pivot) {
         if(num < pivot) lt.push(num);
         else if(num > pivot) gt.push(num);
         else eq++;
-    }    
-    return [...lt, ...Array.from({ length:eq }, _ => pivot), ...gt];
+    } 
+    let i = 0;
+    for(const num of lt) nums[i++] = num;
+    while(eq-- > 0) nums[i++] = pivot;
+    for(const num of gt) nums[i++] = num;
+    return nums
 };
