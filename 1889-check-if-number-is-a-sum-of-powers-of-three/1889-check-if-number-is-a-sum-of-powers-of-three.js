@@ -11,11 +11,8 @@ const sumsPowersOf = base => {
     }
 }
 
-const isSumOfPowersOfThree = sumsPowersOf(3);
 /**
  * @param {number} n
  * @return {boolean}
  */
-var checkPowersOfThree = function(n) {
-    return isSumOfPowersOfThree(n);
-};
+var checkPowersOfThree = sumsPowersOf(3);
