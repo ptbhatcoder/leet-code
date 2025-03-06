@@ -3,29 +3,19 @@
  * @return {number[]}
  */
 var findMissingAndRepeatedValues = function(grid) {
+    let diff = 0, sqDiff = 0;
     const n = grid.length;
-    const max = n * n;
-    let missing = -1, extra = -1;
-    for(let r = 0;  r < n; r++){
+    for(let r = 0; r < n; r++){
         for(let c = 0; c < n; c++){
-            const val = grid[r][c];
-            const index = val < 0 ? -val - 1: val -1;
-            const vc = index % n;
-            const vr = (index - vc) / n;
-            if(grid[vr][vc] < 0){
-                extra = 1 + index;
-            } else {
-                grid[vr][vc] = -grid[vr][vc];
-            }
+            const actual = grid[r][c];
+            const target = 1 + c + r * n;
+            diff += (actual - target);
+            sqDiff += (actual * actual - target *  target);
         }
     }
-    for(let check = 1; check <= max && missing === -1; check++){
-        const index = check - 1;
-        const vc = index % n;
-        const vr = (index - vc) / n;
-        if(grid[vr][vc] > 0){
-            missing = check;
-        }
-    }
+    // sqDiff = extra * extra - missing * missing = (extra + missing)(extra - missing) = (extra + missing) * diff; => sum = sqDiff / diff;
+    const sum = sqDiff / diff;
+    const extra = 0.5 * (sum + diff);
+    const missing = extra - diff;
     return [extra, missing];
 };
