@@ -26,7 +26,7 @@ const primes = generatePrimes();
 const len = primes.length;
 const findCeil = val => {
     let s = 0, e = len - 1;
-    let res = -1;
+    let res = Infinity;
     while(s <= e){
         const mid = s + ((e - s) >> 1);
         if(primes[mid] >= val){
@@ -44,7 +44,6 @@ const findCeil = val => {
  */
 var closestPrimes = function(left, right) {
     const idx = findCeil(left);
-    if(idx < 0) return [-1, -1];
     let num1 = -1, num2 = -1;
     let diff = Infinity;
     for(let i = idx; i + 1 < len && primes[i+1] <= right; i++){
