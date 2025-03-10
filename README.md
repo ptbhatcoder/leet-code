@@ -44,6 +44,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ptbhatcoder/leet-code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/ptbhatcoder/leet-code/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ptbhatcoder/leet-code/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2456-construct-smallest-number-from-di-string](https://github.com/ptbhatcoder/leet-code/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ptbhatcoder/leet-code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3447-clear-digits](https://github.com/ptbhatcoder/leet-code/tree/master/3447-clear-digits) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Counting
 |  |
 | ------- |
@@ -190,4 +192,5 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ptbhatcoder/leet-code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 <!---LeetCode Topics End-->
