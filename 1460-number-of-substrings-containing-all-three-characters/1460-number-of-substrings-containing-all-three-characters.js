@@ -3,13 +3,25 @@
  * @return {number}
  */
 var numberOfSubstrings = function(s) {
-    const indices = { a: -1, b : -1, c: -1 };
+    let a = -1, b = -1, c = -1;
     const n = s.length;
     let res = 0;
     for(let i = 0; i < n; i++){
-        indices[s[i]] = i;
-        const min = Math.min(...Object.values(indices));
-        if(min > -1) res += (min + 1);
+        switch(s[i]){
+            case 'a':
+                a = i;
+                break;
+            case 'b':
+                b = i;
+                break;
+            case 'c':
+                c = i;
+                break;
+            default:
+                break;
+            
+        }
+        if(a > -1 && b > -1 && c > -1) res += (Math.min(a, b, c) + 1);
     }
     return res;
 };
