@@ -4,26 +4,18 @@
  */
 var maximumCount = function(nums) {
     const n = nums.length;
-    let s = 0, e = n - 1;
-    let neg = n;
-    while(s <= e){
-        const mid = s + ((e - s) >> 1);
-        if(nums[mid] >= 0){
-            neg = mid;
-            e = mid - 1;
-        } else s = mid + 1;
+    const search = (s, e, upperBoundCondition) => {
+        let res = s - 1;
+        while(s <= e){
+            const mid = s + ((e - s) >> 1);
+            if(upperBoundCondition(nums[mid])){
+                res = mid;
+                s = mid + 1;
+            } else e = mid - 1;
+        }
+        return res;
     }
-    if(neg === n) return neg;
-    if(nums[neg] > 0) return Math.max(neg, n - neg);
-    let zero = n;
-    s = neg, e = n - 1;
-    while(s <= e){
-        const mid = s + ((e - s) >> 1);
-        if(nums[mid] > 0){
-            zero = mid;
-            e = mid - 1;
-        } else s = mid + 1;
-    }
-    if(zero === n) return neg;
-    return Math.max(neg, n - zero);
+    const neg = search(0, n-1, val => val < 0);
+    const zero = search(neg+1, n-1, val => val === 0);
+    return Math.max(neg+1, n - (1 + zero));
 };
