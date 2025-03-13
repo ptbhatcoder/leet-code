@@ -4,15 +4,6 @@
  * @return {number}
  */
 var minZeroArray = function(nums, queries) {
-    // l = 3, r = 4
-    // m = 2
-    // [2,0,0,-2] 
-    // [2,0,2]
-
-
-    // i = 0, j  = 0, cur = 1
-    // line [0, 0, 0, -1]
-    // 
     const n = nums.length;
     const q = queries.length;
     const change = new Array(1 + n).fill(0);
