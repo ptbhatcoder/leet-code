@@ -3,11 +3,10 @@
  * @return {boolean}
  */
 var divideArray = function(nums) {
-    let set = new Array(500).fill(0);
+    let set = new Set
     for(const num of nums){
-        const key = num - 1;
-        if(set[key] > 0) set[key]--;
-        else set[key]++;
+        if(set.has(num)) set.delete(num);
+        else set.add(num);
     }
-    return set.every(k => k === 0);
+    return set.size === 0;
 };
