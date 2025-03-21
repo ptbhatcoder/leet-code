@@ -1,43 +1,41 @@
+/**
+ * @param {string[]} recipes
+ * @param {string[][]} ingredients
+ * @param {string[]} supplies
+ * @return {string[]}
+ */
 var findAllRecipes = function(recipes, ingredients, supplies) {
-    let availableSupplies = new Set(supplies);
-    let recipeToIngredients = new Map();
-    let visited = new Map();
-    let result = [];
-
+    const recipeIndex = new Map();
     for (let i = 0; i < recipes.length; i++) {
-        recipeToIngredients.set(recipes[i], ingredients[i]);
+        recipeIndex.set(recipes[i], i);
     }
+    const suppliesSet = new Set();
+    for (const supply of supplies) {
+        suppliesSet.add(supply);
+    }
+    const results = new Set();
 
-    const canMake = (recipe) => {
-        if (visited.has(recipe)) {
-            return visited.get(recipe) === 1;
-        }
-
-        if (availableSupplies.has(recipe)) {
-            return true;
-        }
-
-        if (!recipeToIngredients.has(recipe)) {
+    const checkingRecipe = new Set();
+    function checkRecipe(recipe) {
+        if (results.has(recipe)) return true;
+        checkingRecipe.add(recipe);
+        const ingredient = ingredients[recipeIndex.get(recipe)];
+        for (const item of ingredient) {
+            if (suppliesSet.has(item)) {
+                continue;
+            }
+            if (recipeIndex.has(item) && !checkingRecipe.has(item) && checkRecipe(item)) {
+                continue;
+            }
             return false;
         }
-
-        visited.set(recipe, 0);
-
-        for (let ingredient of recipeToIngredients.get(recipe)) {
-            if (!canMake(ingredient)) {
-                visited.set(recipe, -1);
-                return false;
-            }
-        }
-
-        visited.set(recipe, 1);
-        result.push(recipe);
+        checkingRecipe.delete(recipe);
+        results.add(recipe);
         return true;
-    };
-
-    for (let recipe of recipes) {
-        canMake(recipe);
     }
 
-    return result;
+    for (const recipe of recipes) {
+        checkRecipe(recipe);
+    }
+    return [...results];
 };
