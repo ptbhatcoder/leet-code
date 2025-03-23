@@ -1,84 +1,98 @@
+/**
+ * @param {number} n
+ * @param {number[][]} roads
+ * @return {number}
+ */
+
 var countPaths = function(n, roads) {
-    const graph = Array.from({ length: n }, () => []);
-    
-    for (const [u, v, time] of roads) {
-        graph[u].push([v, time]);
-        graph[v].push([u, time]);
+
+    if (n == 1) return 1;
+
+    let adj = Array(n);
+    for (let i = 0; i < n; i++) adj[i] = [];
+
+    for (let road of roads) {
+        let [a, b, d] = road;
+        adj[a].push({to: b, d: d});
+        adj[b].push({to: a, d: d});
     }
 
-    const dist = Array(n).fill(Infinity);
-    const ways = Array(n).fill(0);
-    
-    dist[0] = 0;
-    ways[0] = 1;
-    
-    const pq = new MinHeap();
-    pq.push([0, 0]);
+    let memoD = Array(n).fill(Number.MAX_VALUE);
+    memoD[0] = 0;
+    let memoCtr = Array(n).fill(0);
+    memoCtr[0] = 1;
 
-    const MOD = 1e9 + 7;
+    for (let i = 0; i < n; i++) {
 
-    while (!pq.isEmpty()) {
-        const [d, node] = pq.pop();
-
-        if (d > dist[node]) continue;
-
-        for (const [neighbor, time] of graph[node]) {
-            if (dist[node] + time < dist[neighbor]) {
-                dist[neighbor] = dist[node] + time;
-                ways[neighbor] = ways[node];
-                pq.push([dist[neighbor], neighbor]);
-            } else if (dist[node] + time === dist[neighbor]) {
-                ways[neighbor] = (ways[neighbor] + ways[node]) % MOD;
+        for (let j = 0; j < n - 1; j++) {
+            if (memoCtr[j] > 0) {
+                for (let road of adj[j]) {
+                    if (memoD[road.to] > memoD[j] + road.d) {
+                        memoD[road.to] = memoD[j] + road.d;
+                        memoCtr[road.to] = 0;
+                        memoCtr[road.to] = memoCtr[j];
+                        //console.log(" ", j, ">>", road.to, "=", memoCtr2[road.to]);
+                    } else if (memoD[road.to] == memoD[j] + road.d) {
+                        memoCtr[road.to] = (memoCtr[j] + memoCtr[road.to]) % 1000000007;
+                        //console.log(" ", j, ">", road.to, "=", memoCtr2[road.to]);
+                    }
+                }
+                memoCtr[j] = 0;
             }
         }
+
+        //console.log("----- memoCtr", memoCtr.join(","), "dist", memoD.join(","));
+    }
+    
+    return memoCtr[n - 1]; // % 1000000007;
+}
+
+/*
+Version récursive
+
+let N, adj, number, minDist;
+
+var countPaths = function(n, roads) {
+    N = n;
+    adj = Array(n);
+    for (let i = 0; i < n; i++) adj[i] = [];
+    number = 0;
+    minDist = Number.MAX_VALUE;
+
+    for (let road of roads) {
+        let [a, b, d] = road;
+        adj[a].push({to: b, d: d});
+        adj[b].push({to: a, d: d});
+    }
+    
+    for (let i = 0; i < n; i++) {
+        adj[i].sort((a, b) => a.d - b.d);
+        //console.log("adj[", i, "]=", adj[i]);
     }
 
-    return ways[n - 1];
+    let visited = Array(n).fill(false);
+    recurse(0, visited, 0);
+    return number % 1000000007;
 };
 
-class MinHeap {
-    constructor() {
-        this.heap = [];
+
+function recurse(currNode, visited, duration) {
+    if (currNode == N -1) {
+        if (duration == minDist) number++;
+        else if (duration < minDist) {
+            minDist = duration;
+            number = 1;
+        }
+        return;
     }
 
-    push(val) {
-        this.heap.push(val);
-        this._heapifyUp();
-    }
-
-    pop() {
-        if (this.heap.length === 1) return this.heap.pop();
-        const top = this.heap[0];
-        this.heap[0] = this.heap.pop();
-        this._heapifyDown();
-        return top;
-    }
-
-    isEmpty() {
-        return this.heap.length === 0;
-    }
-
-    _heapifyUp() {
-        let idx = this.heap.length - 1;
-        while (idx > 0) {
-            let parentIdx = Math.floor((idx - 1) / 2);
-            if (this.heap[parentIdx][0] <= this.heap[idx][0]) break;
-            [this.heap[parentIdx], this.heap[idx]] = [this.heap[idx], this.heap[parentIdx]];
-            idx = parentIdx;
+    for (let road of adj[currNode]) {
+        if (!visited[road.to] && road.d + duration <= minDist) {
+            visited[road.to] = true;
+            recurse(road.to, visited, duration + road.d);
+            visited[road.to] = false;
         }
     }
 
-    _heapifyDown() {
-        let idx = 0;
-        while (2 * idx + 1 < this.heap.length) {
-            let leftIdx = 2 * idx + 1, rightIdx = 2 * idx + 2;
-            let smallest = leftIdx;
-            if (rightIdx < this.heap.length && this.heap[rightIdx][0] < this.heap[leftIdx][0]) {
-                smallest = rightIdx;
-            }
-            if (this.heap[idx][0] <= this.heap[smallest][0]) break;
-            [this.heap[idx], this.heap[smallest]] = [this.heap[smallest], this.heap[idx]];
-            idx = smallest;
-        }
-    }
 }
+*/
