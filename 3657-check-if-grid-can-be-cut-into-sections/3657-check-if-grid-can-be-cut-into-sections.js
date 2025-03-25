@@ -1,3 +1,4 @@
+const CUTS = 2;
 const canSection = (slots) => {
     slots.sort((s1, s2) => s1[0] -  s2[0] || s1[1] - s2[1]);
     let intervals = 0;
@@ -6,7 +7,7 @@ const canSection = (slots) => {
         if(max <= s) intervals++;
         max = Math.max(max, e);
     }
-    return intervals >= 3;
+    return intervals >= (1 + CUTS);
 }
 /**
  * @param {number} n
