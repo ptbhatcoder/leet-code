@@ -1,23 +1,21 @@
 /**
- * @param {string} S
+ * @param {string} s
  * @return {number[]}
  */
-var partitionLabels = function(S) {
-    const last = new Array(26).fill(-1);
-    const partitions = [];
-    let anchor = 0;
-    let end = 0;
-    
-    for (let i = 0; i < S.length; i++) {
-        last[S.charCodeAt(i) - 'a'.charCodeAt(0)] = i;
+var partitionLabels = function(s) {
+    const lastIndex = {};
+    const n = s.length;
+    for(let i = 0; i < n;  i++){
+        lastIndex[s[i]] = i;
     }
-    
-    for (let i = 0; i < S.length; i++) {
-        end = Math.max(end, last[S.charCodeAt(i) - 'a'.charCodeAt(0)]);
-        if (i === end) {
-            partitions.push(i - anchor + 1);
-            anchor = i + 1;
+    let start = 0, max = 0;
+    const res = [];
+    for(let i = 0; i < n; i++){
+        max = Math.max(max, lastIndex[s[i]]);
+        if(max === i){
+            res.push(i + 1 - start);
+            start = i + 1;
         }
     }
-    return partitions;
+    return res;
 };
