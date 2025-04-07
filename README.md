@@ -7,6 +7,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/ptbhatcoder/leet-code/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/ptbhatcoder/leet-code/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ptbhatcoder/leet-code/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ptbhatcoder/leet-code/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ptbhatcoder/leet-code/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -230,6 +231,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/ptbhatcoder/leet-code/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/ptbhatcoder/leet-code/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ptbhatcoder/leet-code/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/ptbhatcoder/leet-code/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ptbhatcoder/leet-code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
