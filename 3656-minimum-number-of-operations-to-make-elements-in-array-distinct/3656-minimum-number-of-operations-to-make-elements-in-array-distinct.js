@@ -2,20 +2,22 @@
  * @param {number[]} nums
  * @return {number}
  */
-var minimumOperations = function(vals) {
-    let nums = vals;
-    const check = () => {
+var minimumOperations = function(nums) {
+    const n = nums.length;
+    const check = (start) => {
         const vals = new Set;
-        for(const num of nums){
+        for(let i = start; i < n; i++){
+            const num = nums[i];
             if(vals.has(num)) return false;
             vals.add(num);
         }
         return true;
     }
     let ops = 0;
-    while(!check()){
-        nums = nums.slice(3);
+    let start = 0;
+    while(!check(start)){
         ops++;
+        start += 3;
     }
     return ops;
 };
