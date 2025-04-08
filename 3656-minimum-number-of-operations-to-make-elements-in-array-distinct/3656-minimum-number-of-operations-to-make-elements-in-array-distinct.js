@@ -15,7 +15,7 @@ var minimumOperations = function(nums) {
     }
     let ops = 0;
     let start = 0;
-    while(!check(start)){
+    while(!check(start) &&  start < n){
         ops++;
         start += 3;
     }
