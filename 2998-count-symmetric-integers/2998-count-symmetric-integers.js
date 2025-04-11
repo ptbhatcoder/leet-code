@@ -5,27 +5,11 @@
  */
 var countSymmetricIntegers = function(low, high) {
     const isSymmetric = (num) => {
-        let c = 0, sum = 0;
-        let k =  num;
-        while(k > 0){
-            c++;
-            const d = k % 10;
-            sum += d;
-            k =  k - d;
-            k =  k / 10;
-        }
-        if(c & 1) return false;
-        c = c / 2;
-        k = num;
-        let v = 0;
-        while(c > 0){
-            const d = k % 10;
-            v += d;
-            c--;
-            k = k - d;
-            k = k / 10;
-        }
-        return  (2 * v) === sum;
+        if(num <= 10  || (num >= 100 && num <= 1000)) return false;
+        if(num < 100) return (num % 10) === Math.floor(num / 10);
+        const right = num % 100;
+        const left = Math.floor(num / 100);
+        return ((right % 10) + Math.floor(right / 10)) === ((left % 10) + Math.floor(left / 10));
     }
 
     let count = 0;
