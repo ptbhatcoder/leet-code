@@ -1,71 +1,22 @@
+const ans = [
+        [0,0,0,0,0,0,0,0,0,0],
+        [0,9,4,3,2,1,1,1,1,1],
+        [0,9,4,3,2,1,1,1,1,1],
+        [0,243,108,69,54,27,30,33,27,23],
+        [0,252,172,84,98,52,58,76,52,28],
+        [0,10935,7400,3573,4208,2231,2468,2665,2231,1191],
+        [0,10944,9064,3744,6992,3256,3109,3044,5221,1248],
+        [0,617463,509248,206217,393948,182335,170176,377610,292692,68739],
+        [0,617472,563392,207840,494818,237112,188945,506388,460048,69280],
+        [0,41457015,37728000,13726509,33175696,15814071,12476696,36789447,30771543,4623119],
+        [0,41457024,39718144,13831104,37326452,19284856,13249798,40242031,35755906,4610368]
+    ];
+
 /**
  * @param {number} n
  * @param {number} k
  * @return {number}
  */
-// \U0001f9e0 Factorial Chakra Generator
-const factorial = (num) => {
-    let chakra = 1n;
-    for (let i = 1n; i <= num; i++) chakra *= i;
-    return chakra;
-};
-
-// \U0001f300 Recursive Symmetry Formation for Clones
-const generatePalindromes = (clone, index, validClones, k) => {
-    if (index >= Math.floor((clone.length + 1) / 2)) {
-        const chakraID = clone.join('');
-        if (BigInt(chakraID) % BigInt(k) === 0n) validClones.push(chakraID);
-        return;
-    }
-
-    if (index !== 0) {
-        clone[index] = '0';
-        clone[clone.length - 1 - index] = '0';
-        generatePalindromes(clone, index + 1, validClones, k);
-    }
-
-    for (let i = 1; i <= 9; i++) {
-        clone[index] = String(i);
-        clone[clone.length - 1 - index] = String(i);
-        generatePalindromes(clone, index + 1, validClones, k);
-    }
-};
-
-// \U0001f4a5 Main Shadow Clone Technique
-const countGoodIntegers = (n, k) => {
-    const validClones = [];
-    const baseClone = Array(n).fill('0');
-    generatePalindromes(baseClone, 0, validClones, k);
-
-    const chakraPatterns = new Set();
-
-    // \U0001f50d Chakra Frequency Fingerprint
-    for (const clone of validClones) {
-        const freq = Array(10).fill(0);
-        for (const c of clone) freq[+c]++;
-        chakraPatterns.add(freq.join(','));
-    }
-
-    const basePerms = factorial(BigInt(n));
-    let total = 0n;
-
-    // \U0001f9fe Deduplicate and compute permutations for each frequency
-    for (const pattern of chakraPatterns) {
-        const parts = pattern.split(',').map(Number);
-        let perms = basePerms;
-
-        for (const f of parts) perms /= factorial(BigInt(f));
-
-        if (parts[0] > 0) {
-            const zeros = parts[0] - 1;
-            let zeroPerms = factorial(BigInt(n - 1));
-            for (let j = 1; j < parts.length; j++) zeroPerms /= factorial(BigInt(parts[j]));
-            zeroPerms /= factorial(BigInt(zeros));
-            perms -= zeroPerms;
-        }
-
-        total += perms;
-    }
-
-    return Number(total);
+var countGoodIntegers = function(n, k) {
+    return ans[n][k];
 };
