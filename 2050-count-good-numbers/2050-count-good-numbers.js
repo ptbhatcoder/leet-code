@@ -1,26 +1,29 @@
-const MOD = 7  + 10**9;
 /**
  * @param {number} n
  * @return {number}
  */
-var countGoodNumbers = function (n) {
-    n = BigInt(n)
-    let mod = BigInt(1_000_000_007)
-    let even = (n + 1n) / 2n
-    let odd = n / 2n
-    let first = pow(5n, even) % mod
-    let second = pow(4n, odd) % mod
+var countGoodNumbers = function(n) {
+    const MOD = 1000000007n;
 
-    return Number((first * second) % mod)
-
-
-    function pow(x, n) {
-        if (n === 0n)
-            return 1n;
-        let temp = pow(BigInt(x), n / 2n);
-        if (n % 2n === 0n)
-            return (temp * temp) % mod
-        else
-            return (x * temp * temp) % mod
+    const modPow = (base, exp) => {
+        base = BigInt(base);
+        exp = BigInt(exp);
+        let result = 1n;
+        while (exp > 0) {
+            if (exp % 2n === 1n) {
+                result = (result * base) % MOD;
+            }
+            base = (base * base) % MOD;
+            exp = exp / 2n;
+        }
+        return result;
     }
+
+    let numEven = BigInt(Math.floor(n / 2));
+    let numOdd = BigInt(Math.ceil(n / 2));
+
+    let evenPart = modPow(5n, numOdd); // positions at 0, 2, 4...
+    let oddPart = modPow(4n, numEven); // positions at 1, 3, 5...
+
+    return Number((evenPart * oddPart) % MOD);
 };
