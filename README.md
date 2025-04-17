@@ -25,6 +25,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ptbhatcoder/leet-code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/ptbhatcoder/leet-code/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ptbhatcoder/leet-code/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ptbhatcoder/leet-code/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ptbhatcoder/leet-code/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ptbhatcoder/leet-code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/ptbhatcoder/leet-code/tree/master/2448-count-number-of-bad-pairs) |
