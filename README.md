@@ -84,6 +84,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/ptbhatcoder/leet-code/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/ptbhatcoder/leet-code/tree/master/0768-partition-labels) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ptbhatcoder/leet-code/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ptbhatcoder/leet-code/tree/master/1160-letter-tile-possibilities) |
