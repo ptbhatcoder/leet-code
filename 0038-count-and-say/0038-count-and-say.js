@@ -1,21 +1,25 @@
-const compute = n => {
-    if(n === 1)  return '1';
-    const prev = compute(n-1);
-    const rle = [];
-    let char = prev[0], count = 1;
-    for(let i = 1; i < prev.length;  i++){
-        const cur = prev[i];
-        if(char !== cur){
-            rle.push(count, char);
-            char = cur;
-            count = 1;
-        } else count++;
-    }
-    rle.push(count, char);
-    return rle.join('');
-}
 
-const dp = Array.from({ length: 30 },(_, i) => compute(i+1));
+
+const dp = new Array(30).fill(null);
+const compute = () => {
+    let rle = '1';
+    dp[0] = '1';
+    for(let i = 2; i <= 30; i++){
+        const next = [];
+        let cand = -1, count = 0;
+        for(const c of rle){
+            if(c !== cand){
+                if(count > 0) next.push(count, cand);
+                cand = c;
+                count = 1;
+            } else count++;
+        }
+        next.push(count, cand);
+        rle = next.join('');
+        dp[i-1] = rle;
+    }
+}
+compute();
 
 /**
  * @param {number} n
