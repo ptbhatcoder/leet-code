@@ -1,39 +1,51 @@
 const MOD = 1e9 + 7;
-const MAX = 10001;
-const cnt = Array.from({ length: MAX }, () => Array(14).fill(0));
-const comb = Array.from({ length: MAX }, () => Array(14).fill(0));
+const MAX_N = 10010;
+const MAX_P = 15; // There are up to 15 prime factors
+const c = Array.from({ length: MAX_N + MAX_P }, () => Array(MAX_P + 1).fill(0));
+const sieve = Array(MAX_N).fill(0); // Minimum prime factor
+const ps = Array.from({ length: MAX_N }, () => []); // List of prime factor counts
 
-// Precompute combinations
-for (let s = 0; s < MAX; s++) {
-    comb[s][0] = 1;
-    for (let r = 1; r <= Math.min(s, 13); r++) {
-        comb[s][r] = (comb[s - 1][r - 1] + comb[s - 1][r]) % MOD;
-    }
-}
-
-// Sieve-style DP
-for (let div = 1; div < MAX; div++) {
-    cnt[div][0]++;
-    for (let i = div * 2; i < MAX; i += div) {
-        for (let bars = 0; bars < 13; bars++) {
-            if (cnt[div][bars]) {
-                cnt[i][bars + 1] += cnt[div][bars];
+(function init() {
+    for (let i = 2; i < MAX_N; i++) {
+        if (sieve[i] === 0) {
+            for (let j = i; j < MAX_N; j += i) {
+                if (sieve[j] === 0) {
+                    sieve[j] = i;
+                }
             }
         }
     }
-}
 
-/**
- * @param {number} n
- * @param {number} maxValue
- * @return {number}
- */
-var idealArrays = function(n, maxValue) {
-    let res = 0;
-    for (let i = 1; i <= maxValue; i++) {
-        for (let bars = 0; bars < Math.min(14, n); bars++) {
-            res = (res + cnt[i][bars] * comb[n - 1][bars]) % MOD;
+    for (let i = 2; i < MAX_N; i++) {
+        let x = i;
+        while (x > 1) {
+            const p = sieve[x];
+            let cnt = 0;
+            while (x % p === 0) {
+                x = Math.floor(x / p);
+                cnt++;
+            }
+            ps[i].push(cnt);
         }
     }
-    return res;
-};
+
+    c[0][0] = 1;
+    for (let i = 1; i < MAX_N + MAX_P; i++) {
+        c[i][0] = 1;
+        for (let j = 1; j <= Math.min(i, MAX_P); j++) {
+            c[i][j] = (c[i - 1][j] + c[i - 1][j - 1]) % MOD;
+        }
+    }
+})();
+
+function idealArrays(n, maxValue) {
+    let ans = 0n;
+    for (let x = 1; x <= maxValue; x++) {
+        let mul = 1n;
+        for (const p of ps[x]) {
+            mul = (mul * BigInt(c[n + p - 1][p])) % BigInt(MOD);
+        }
+        ans = (ans + mul) % BigInt(MOD);
+    }
+    return Number(ans);
+}
