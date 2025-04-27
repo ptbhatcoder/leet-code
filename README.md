@@ -62,6 +62,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3643-zero-array-transformation-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ptbhatcoder/leet-code/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ptbhatcoder/leet-code/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ptbhatcoder/leet-code/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
