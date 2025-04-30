@@ -3,17 +3,11 @@
  * @return {number}
  */
 var findNumbers = function(nums) {
-    const isOdd = n => {
-        let flag = false;
-        while(n){
-            flag = !flag;
-            n = Math.floor(n / 10);
-        }
-        return flag;
-    }
-    let c = 0;
+    let res = 0;
     for(const num of nums){
-        if(!isOdd(num)) c++;
+        if(10 <= num && num <= 99) res++;
+        else if(1000 <= num && num <= 9999) res++;
+        else if(num === 100000) res++;
     }
-    return c;
+    return res;
 };
