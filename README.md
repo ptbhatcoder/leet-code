@@ -11,6 +11,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [0797-rabbits-in-forest](https://github.com/ptbhatcoder/leet-code/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ptbhatcoder/leet-code/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ptbhatcoder/leet-code/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/ptbhatcoder/leet-code/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ptbhatcoder/leet-code/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/ptbhatcoder/leet-code/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ptbhatcoder/leet-code/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -223,6 +224,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | ------- |
 | [0768-partition-labels](https://github.com/ptbhatcoder/leet-code/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/ptbhatcoder/leet-code/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/ptbhatcoder/leet-code/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ptbhatcoder/leet-code/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/ptbhatcoder/leet-code/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ptbhatcoder/leet-code/tree/master/3001-apply-operations-to-maximize-score) |
