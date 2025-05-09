@@ -120,6 +120,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3243-count-the-number-of-powerful-integers](https://github.com/ptbhatcoder/leet-code/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/ptbhatcoder/leet-code/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/ptbhatcoder/leet-code/tree/master/3637-count-number-of-balanced-permutations) |
 ## Counting
 |  |
 | ------- |
@@ -184,6 +185,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3227-find-missing-and-repeated-values](https://github.com/ptbhatcoder/leet-code/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ptbhatcoder/leet-code/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/ptbhatcoder/leet-code/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/ptbhatcoder/leet-code/tree/master/3637-count-number-of-balanced-permutations) |
 ## Stack
 |  |
 | ------- |
@@ -294,6 +296,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2262-solving-questions-with-brainpower](https://github.com/ptbhatcoder/leet-code/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ptbhatcoder/leet-code/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ptbhatcoder/leet-code/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/ptbhatcoder/leet-code/tree/master/3637-count-number-of-balanced-permutations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -381,6 +384,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ptbhatcoder/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ptbhatcoder/leet-code/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/ptbhatcoder/leet-code/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/ptbhatcoder/leet-code/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
 | ------- |
