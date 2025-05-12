@@ -7,17 +7,16 @@ var findEvenNumbers = function(digits) {
     for(const digit of digits) f[digit]++;
     const res = [];
     for(let num = 100; num < 1000; num+=2){
-        const cf = new Array(10).fill(0);
-        let val = num;
-        for(let t = 0; t < 3; t++){
-            cf[val % 10]++;
-            val = ~~(val / 10);
-        }
-        let canMake = true;
-        for(let i = 0; i <= 9 && canMake; i++){
-            if(cf[i] > f[i]) canMake = false;
-        }
-        if(canMake) res.push(num);
+        const one = num % 10;
+        const ten = (~~(num / 10)) % 10;
+        const hundred = ~~(num / 100);
+        f[one]--;
+        f[ten]--;
+        f[hundred]--;
+        if(f[one] >= 0 && f[ten] >= 0 && f[hundred] >= 0) res.push(num);
+        f[one]++;
+        f[ten]++;
+        f[hundred]++;
     }
     return res;
 };
