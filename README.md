@@ -28,6 +28,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2048-build-array-from-permutation](https://github.com/ptbhatcoder/leet-code/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/ptbhatcoder/leet-code/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ptbhatcoder/leet-code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2215-finding-3-digit-even-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ptbhatcoder/leet-code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/ptbhatcoder/leet-code/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/ptbhatcoder/leet-code/tree/master/2262-solving-questions-with-brainpower) |
@@ -87,6 +88,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1500-count-largest-group](https://github.com/ptbhatcoder/leet-code/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ptbhatcoder/leet-code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/ptbhatcoder/leet-code/tree/master/2107-find-unique-binary-string) |
+| [2215-finding-3-digit-even-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ptbhatcoder/leet-code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ptbhatcoder/leet-code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/ptbhatcoder/leet-code/tree/master/2434-design-a-number-container-system) |
@@ -200,6 +202,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/ptbhatcoder/leet-code/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ptbhatcoder/leet-code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2215-finding-3-digit-even-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ptbhatcoder/leet-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ptbhatcoder/leet-code/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/ptbhatcoder/leet-code/tree/master/2681-put-marbles-in-bags) |
@@ -393,6 +396,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | ------- |
 | [1656-count-good-triplets](https://github.com/ptbhatcoder/leet-code/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ptbhatcoder/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2215-finding-3-digit-even-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/ptbhatcoder/leet-code/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/ptbhatcoder/leet-code/tree/master/3548-find-the-count-of-good-integers) |
 ## Recursion
