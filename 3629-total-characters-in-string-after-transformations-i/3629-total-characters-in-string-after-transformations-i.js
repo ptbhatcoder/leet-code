@@ -10,9 +10,9 @@ var lengthAfterTransformations = function(s, t) {
     for(let i = 0;i < n; i++) f[s.charCodeAt(i) - 97]++;
     for(let j = 0; j < t; j++){
         const c = new Array(26).fill(0);
-        c[0] = (c[0] + f[25]) % MOD;
-        c[1] = (c[1] + f[25]) % MOD;
-        for(let i = 1; i < 26; i++) c[i] = (f[i-1] + c[i]) % MOD;
+        c[0] = f[25];
+        c[1] = (f[0] + f[25]) % MOD;
+        for(let i = 2; i < 26; i++) c[i] = (f[i-1] + c[i]) % MOD;
         f = c;
     }
     let res = 0;
