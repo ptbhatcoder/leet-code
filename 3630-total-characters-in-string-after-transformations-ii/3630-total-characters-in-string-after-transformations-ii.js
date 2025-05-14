@@ -13,7 +13,7 @@ var lengthAfterTransformations = function(s, t, nums) {
         let chr = s.charCodeAt(i) - 'a'.charCodeAt(0);
         vec[chr] += 1;
     }
-    let mat = new Array(26).fill(0).map(_ => new Array(26).fill(0n));
+    let mat = Array.from({ length: 26 }, _ => new Array(26).fill(0n));
     for(let i = 0; i < 26; ++i) {
         let count = nums[i];
         let j = (i + 1) % 26;
