@@ -5,20 +5,27 @@
  * @return {number}
  */
 var maximumValueSum = function(nums, k, edges) {
-    const n = nums.length;
-    const diffs = Array.from({ length:n }, (_, i) => (nums[i] ^ k) - nums[i]); // represents how will change number after XOR
-    diffs.sort((a, b) => b - a);
+    let totalSum = 0;
+    let count = 0;
+    let positiveMin = Infinity;
+    let negativeMax = -Infinity;
 
-    let res = nums.reduce((acc, num) => acc + num, 0);
+    for (let nodeValue of nums) {
+        let nodeValAfterOperation = nodeValue ^ k;
+        totalSum += nodeValue;
+        let netChange = nodeValAfterOperation - nodeValue;
 
-    for (let i = 0; i < n - 1; i += 2) {
-        let diff = diffs[i] + diffs[i + 1]; // showing whether if would be beneficial if we XOR this two nodes 
-        if (diff > 0) {
-            res += diff;
+        if (netChange > 0) {
+            positiveMin = Math.min(positiveMin, netChange);
+            totalSum += netChange;
+            count += 1;
         } else {
-            break;
+            negativeMax = Math.max(negativeMax, netChange);
         }
     }
 
-    return res;
+    if (count % 2 === 0) {
+        return totalSum;
+    }
+    return Math.max(totalSum - positiveMin, totalSum + negativeMax);
 };
