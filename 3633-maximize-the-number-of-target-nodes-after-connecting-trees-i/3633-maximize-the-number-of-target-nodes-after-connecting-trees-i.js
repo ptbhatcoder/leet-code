@@ -13,9 +13,6 @@ const findNodesAtDist = (graph, node, dist, parent = -1) => {
  * @return {number[]}
  */
 var maxTargetNodes = function(edges1, edges2, k) {
-    // g1 - 5, 3, 5, 4, 4
-    // g2 - 4, 3, 3, 2, 4, 2, 2, 2
-    // +max - 9, 7, 9, 8, 8
     const n = edges1.length + 1;
     const m = edges2.length + 1;
     const g1 = Array.from({ length: n }, _ => []);
