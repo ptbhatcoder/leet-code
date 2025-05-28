@@ -1,11 +1,8 @@
-const findNodesAtDist = (graph, node, dist, visited = new Set) => {
-    if(visited.has(node) || dist < 0) return 0;
+const findNodesAtDist = (graph, node, dist, parent = -1) => {
+    if(dist < 0) return 0;
     let count = 1;
-    if(dist === 0) return count;
-    visited.add(node);
     for(const next of graph[node]){
-        if(visited.has(next)) continue;
-        count+=findNodesAtDist(graph, next, dist-1, visited);
+        if(next !== parent) count+=findNodesAtDist(graph, next, dist-1, node);
     }
     return count;
 }
