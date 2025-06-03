@@ -7,26 +7,23 @@
  * @return {number}
  */
 const maxCandies = (status, candies, keys, containedBoxes, initialBoxes) => {
-    let queue = [...initialBoxes];
+    let q = [...initialBoxes];
     let total = 0;
 
-    while (queue.length > 0) {
-        let box = queue.shift();
-        
-        if (!status[box]) {
-            if (!queue.length) return total;
-            queue.push(box);
-        } else {
-            total += candies[box];
-
-            for (const key of keys[box]) {
-                status[key] = 1;
+    while (q.length > 0) {
+        const next = [];
+        for(let i = 0; i < q.length; i++){
+            const box = q[i];;
+            if(!status[box]){
+                if((i + 1) >= q.length) return total;
+                next.push(box);
+            } else {
+                total += candies[box];
+                for(const key of keys[box]) status[key] = 1;
+                next.push(...containedBoxes[box]);
             }
-
-            for (const contained of containedBoxes[box]) {
-                queue.push(contained);
-            }
-        }
+        } 
+        q = next;
     }
 
     return total;
