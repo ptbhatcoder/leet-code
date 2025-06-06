@@ -13,14 +13,15 @@ var robotWithString = function(s) {
     }
 
     const st = [];
-    const res = [];
+    const res = new Array(s.length);
+    let i = 0;
     for(const c of s){
         st.push(c);
         f[c]--;
         while(st.length > 0 && st.at(-1) <= smallest()){
-            res.push(st.pop());
+            res[i++] = st.pop();
         }
     }
-    while(st.length > 0) res.push(st.pop());
+    while(st.length > 0) res[i++] = st.pop();
     return res.join('');
 };
