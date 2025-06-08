@@ -312,6 +312,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/0386-lexicographical-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ptbhatcoder/leet-code/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ptbhatcoder/leet-code/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/ptbhatcoder/leet-code/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -505,4 +506,8 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ptbhatcoder/leet-code/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
