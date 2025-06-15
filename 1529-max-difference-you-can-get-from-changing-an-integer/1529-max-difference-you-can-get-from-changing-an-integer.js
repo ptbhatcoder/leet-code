@@ -14,16 +14,13 @@ const firstMismatch = (val, mismatch, start = 0) => {
 var maxDiff = function(num) {
     const hay = String(num);
     const n = hay.length;
-    
-    let t9 = -1, t1 = -1, t0 = -1;
-    for(let i = 0; i < n; i++){
+    let t9 = '9';
+    for(let i = 0; i < n && t9 === '9'; i++){
         const c = hay[i];
-        if(c !== '9' && t9 === -1) t9 = i;
-        if(c !== '0' && t0 === -1) t0 = i;
-        if(c !== '1' && t1 === -1) t1 = i;
+        if(c !== '9') t9 = c;
     }
 
-    const max = +hay.replaceAll(hay[t9], '9');
+    const max = t9 === '9' ?  num : +hay.replaceAll(t9, '9');
     let min = num;
     if(hay[0] > '1'){
         min = +hay.replaceAll(hay[0], '1');
