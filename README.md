@@ -239,6 +239,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ptbhatcoder/leet-code/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ptbhatcoder/leet-code/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ptbhatcoder/leet-code/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -487,6 +488,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3201-distribute-candies-among-children-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/ptbhatcoder/leet-code/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ptbhatcoder/leet-code/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ptbhatcoder/leet-code/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Enumeration
 |  |
 | ------- |
