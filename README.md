@@ -32,6 +32,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2048-build-array-from-permutation](https://github.com/ptbhatcoder/leet-code/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/ptbhatcoder/leet-code/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ptbhatcoder/leet-code/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ptbhatcoder/leet-code/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ptbhatcoder/leet-code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ptbhatcoder/leet-code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -455,6 +456,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ptbhatcoder/leet-code/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ptbhatcoder/leet-code/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ptbhatcoder/leet-code/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ptbhatcoder/leet-code/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ptbhatcoder/leet-code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
