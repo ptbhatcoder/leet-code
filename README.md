@@ -151,6 +151,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ptbhatcoder/leet-code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ptbhatcoder/leet-code/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ptbhatcoder/leet-code/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ptbhatcoder/leet-code/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ptbhatcoder/leet-code/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ptbhatcoder/leet-code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ptbhatcoder/leet-code/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -320,6 +321,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ptbhatcoder/leet-code/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ptbhatcoder/leet-code/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ptbhatcoder/leet-code/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ptbhatcoder/leet-code/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ptbhatcoder/leet-code/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ptbhatcoder/leet-code/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/ptbhatcoder/leet-code/tree/master/2681-put-marbles-in-bags) |
@@ -403,6 +405,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ptbhatcoder/leet-code/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ptbhatcoder/leet-code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/ptbhatcoder/leet-code/tree/master/2262-solving-questions-with-brainpower) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ptbhatcoder/leet-code/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ptbhatcoder/leet-code/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ptbhatcoder/leet-code/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -547,6 +550,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ptbhatcoder/leet-code/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ptbhatcoder/leet-code/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Trie
 |  |
 | ------- |
