@@ -4,6 +4,14 @@
  * @return {number[]}
  */
 var maxSubsequence = function(nums, k) {
-    const vals = nums.map((v, i) => [v, i]).sort((a, b) => b[0] - a[0]);
-    return vals.slice(0, k).sort((a, b) => a[1] - b[1]).map(v => nums[v[1]]);
+    const pq = new PriorityQueue((v1, v2) => {
+        return (v1[0] - v2[0]) || (v1[1] - v2[1]);
+    });
+    const n = nums.length;
+    for(let i = 0; i < k; i++) pq.enqueue([nums[i], i]);
+    for(let i = k; i < n; i++){
+        pq.enqueue([nums[i], i]);
+        pq.dequeue();
+    };
+    return pq.toArray().sort((a, b) => a[1] - b[1]).map(v => v[0]);
 };
