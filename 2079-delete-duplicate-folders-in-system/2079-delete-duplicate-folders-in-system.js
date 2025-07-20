@@ -1,63 +1,53 @@
-class Node {
-    constructor(name) {
-        this.name = name;
-        this.children = new Map();
-        this.signature = "";
+var deleteDuplicateFolder = function (paths) {
+    class Trie {
+        constructor() {
+            this.serial = ""; // current node structure's serialized representation
+            this.children = new Map(); // current node's child nodes
+        }
     }
-}
 
-var deleteDuplicateFolder = function(paths) {
-    const root = new Node("");
+    const root = new Trie(); // root node
+    // build a trie tree
     for (const path of paths) {
-        let node = root;
-        for (const folder of path) {
-            if (!node.children.has(folder)) {
-                node.children.set(folder, new Node(folder));
+        let cur = root;
+        for (const node of path) {
+            if (!cur.children.has(node)) {
+                cur.children.set(node, new Trie());
             }
-            node = node.children.get(folder);
+            cur = cur.children.get(node);
         }
     }
 
-    const signatureCount = new Map();
-
-    function dfs(node) {
-        if (node.children.size === 0) {
-            node.signature = "";
-            return "";
+    const freq = new Map(); // hash table records the occurrence times of each serialized representation
+    // post-order traversal based on depth-first search, calculate the serialized representation of each node structure
+    function construct(node) {
+        if (node.children.size === 0) return; // if it is a leaf node, no operation is needed.
+        const v = [];
+        for (const [folder, child] of node.children) {
+            construct(child);
+            v.push(`${folder}(${child.serial})`);
         }
-        const childSignatures = [];
-        const sortedChildren = Array.from(node.children.entries()).sort((a, b) => a[0].localeCompare(b[0]));
-        for (const [name, child] of sortedChildren) {
-            const childSignature = dfs(child);
-            childSignatures.push(`${name}(${childSignature})`);
-        }
-        node.signature = childSignatures.join("");
-        signatureCount.set(node.signature, (signatureCount.get(node.signature) || 0) + 1);
-        return node.signature;
+        v.sort();
+        node.serial = v.join("");
+        freq.set(node.serial, (freq.get(node.serial) || 0) + 1);
     }
+    construct(root);
 
-    dfs(root);
-
-    const result = [];
-    const currentPath = [];
-
-    function dfs2(node) {
-        if (node.children.size > 0 && signatureCount.get(node.signature) >= 2) {
-            return;
+    const ans = [];
+    const path = [];
+    // operate the trie, delete duplicate folders
+    function operate(node) {
+        if ((freq.get(node.serial) || 0) > 1) return; // if the serialization representation appears more than once, it needs to be deleted
+        if (path.length > 0) {
+            ans.push([...path]);
         }
-        currentPath.push(node.name);
-        result.push([...currentPath]);
-        const sortedChildren = Array.from(node.children.entries()).sort((a, b) => a[0].localeCompare(b[0]));
-        for (const [name, child] of sortedChildren) {
-            dfs2(child);
+        for (const [folder, child] of node.children) {
+            path.push(folder);
+            operate(child);
+            path.pop();
         }
-        currentPath.pop();
     }
+    operate(root);
 
-    const sortedRootChildren = Array.from(root.children.entries()).sort((a, b) => a[0].localeCompare(b[0]));
-    for (const [name, child] of sortedRootChildren) {
-        dfs2(child);
-    }
-
-    return result;
+    return ans;
 };
