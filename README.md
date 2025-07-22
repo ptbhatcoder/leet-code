@@ -28,6 +28,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ptbhatcoder/leet-code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ptbhatcoder/leet-code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/ptbhatcoder/leet-code/tree/master/1656-count-good-triplets) |
+| [1813-maximum-erasure-value](https://github.com/ptbhatcoder/leet-code/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ptbhatcoder/leet-code/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ptbhatcoder/leet-code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ptbhatcoder/leet-code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -116,6 +117,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ptbhatcoder/leet-code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/ptbhatcoder/leet-code/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ptbhatcoder/leet-code/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/ptbhatcoder/leet-code/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ptbhatcoder/leet-code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ptbhatcoder/leet-code/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ptbhatcoder/leet-code/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -484,6 +486,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/ptbhatcoder/leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ptbhatcoder/leet-code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1813-maximum-erasure-value](https://github.com/ptbhatcoder/leet-code/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ptbhatcoder/leet-code/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ptbhatcoder/leet-code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/ptbhatcoder/leet-code/tree/master/2478-longest-nice-subarray) |
