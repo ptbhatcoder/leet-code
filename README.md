@@ -59,6 +59,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2448-count-number-of-bad-pairs](https://github.com/ptbhatcoder/leet-code/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ptbhatcoder/leet-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/ptbhatcoder/leet-code/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ptbhatcoder/leet-code/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ptbhatcoder/leet-code/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/ptbhatcoder/leet-code/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ptbhatcoder/leet-code/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -504,6 +505,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ptbhatcoder/leet-code/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ptbhatcoder/leet-code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/ptbhatcoder/leet-code/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ptbhatcoder/leet-code/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ptbhatcoder/leet-code/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ptbhatcoder/leet-code/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ptbhatcoder/leet-code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -518,6 +520,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ptbhatcoder/leet-code/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ptbhatcoder/leet-code/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ptbhatcoder/leet-code/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ptbhatcoder/leet-code/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ptbhatcoder/leet-code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ptbhatcoder/leet-code/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/ptbhatcoder/leet-code/tree/master/2690-house-robber-iv) |
@@ -532,6 +535,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2308-divide-array-into-equal-pairs](https://github.com/ptbhatcoder/leet-code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ptbhatcoder/leet-code/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/ptbhatcoder/leet-code/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ptbhatcoder/leet-code/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ptbhatcoder/leet-code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ptbhatcoder/leet-code/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ptbhatcoder/leet-code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
