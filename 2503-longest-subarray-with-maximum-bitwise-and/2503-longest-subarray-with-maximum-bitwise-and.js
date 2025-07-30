@@ -4,14 +4,15 @@
  */
 var longestSubarray = function(nums) {
     let cand = -Infinity;
-    for(const num of nums) cand = Math.max(cand, num);
-    let cur = 0, max = 1;
+    const span = {};
+    let prev = null, cur = 0;
     for(const num of nums){
-        if(num === cand) {
-            cur++;
-            max = Math.max(max, cur);
-        } else cur = 0;
-
+        cand = Math.max(cand, num);
+        if(prev !== num) cur = 0;
+        cur++;
+        span[num] = Math.max(span[num] || 0, cur);
+        prev = num;
     }
-    return max;
+    
+    return span[cand];
 };
