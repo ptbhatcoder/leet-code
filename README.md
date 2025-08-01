@@ -7,6 +7,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ptbhatcoder/leet-code/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/ptbhatcoder/leet-code/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/ptbhatcoder/leet-code/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/ptbhatcoder/leet-code/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/ptbhatcoder/leet-code/tree/master/0416-partition-equal-subset-sum) |
@@ -446,6 +447,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/ptbhatcoder/leet-code/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/ptbhatcoder/leet-code/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/ptbhatcoder/leet-code/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/ptbhatcoder/leet-code/tree/master/0806-domino-and-tromino-tiling) |
