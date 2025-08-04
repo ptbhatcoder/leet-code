@@ -16,6 +16,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ptbhatcoder/leet-code/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ptbhatcoder/leet-code/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ptbhatcoder/leet-code/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/ptbhatcoder/leet-code/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/ptbhatcoder/leet-code/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ptbhatcoder/leet-code/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ptbhatcoder/leet-code/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -121,6 +122,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [0797-rabbits-in-forest](https://github.com/ptbhatcoder/leet-code/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ptbhatcoder/leet-code/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ptbhatcoder/leet-code/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/ptbhatcoder/leet-code/tree/master/0940-fruit-into-baskets) |
 | [1160-letter-tile-possibilities](https://github.com/ptbhatcoder/leet-code/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ptbhatcoder/leet-code/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/ptbhatcoder/leet-code/tree/master/1364-tuple-with-same-product) |
@@ -511,6 +513,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/ptbhatcoder/leet-code/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/ptbhatcoder/leet-code/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ptbhatcoder/leet-code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/ptbhatcoder/leet-code/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ptbhatcoder/leet-code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
