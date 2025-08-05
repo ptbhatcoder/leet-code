@@ -113,6 +113,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ptbhatcoder/leet-code/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ptbhatcoder/leet-code/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ptbhatcoder/leet-code/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -239,6 +240,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ptbhatcoder/leet-code/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/ptbhatcoder/leet-code/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ptbhatcoder/leet-code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
 |  |
 | ------- |
@@ -263,6 +265,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/ptbhatcoder/leet-code/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/ptbhatcoder/leet-code/tree/master/2434-design-a-number-container-system) |
+| [3790-fruits-into-baskets-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -543,6 +546,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2699-count-the-number-of-fair-pairs](https://github.com/ptbhatcoder/leet-code/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ptbhatcoder/leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -624,6 +628,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/ptbhatcoder/leet-code/tree/master/2280-count-good-triplets-in-an-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ptbhatcoder/leet-code/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
