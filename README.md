@@ -276,6 +276,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ptbhatcoder/leet-code/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ptbhatcoder/leet-code/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/ptbhatcoder/leet-code/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/ptbhatcoder/leet-code/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/ptbhatcoder/leet-code/tree/master/0826-soup-servings) |
@@ -637,6 +638,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ptbhatcoder/leet-code/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ptbhatcoder/leet-code/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ptbhatcoder/leet-code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Indexed Tree
