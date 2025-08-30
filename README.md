@@ -6,6 +6,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ptbhatcoder/leet-code/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/ptbhatcoder/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/ptbhatcoder/leet-code/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/ptbhatcoder/leet-code/tree/master/0135-candy) |
@@ -126,6 +127,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ptbhatcoder/leet-code/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/ptbhatcoder/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/ptbhatcoder/leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/ptbhatcoder/leet-code/tree/master/0768-partition-labels) |
@@ -531,6 +533,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ptbhatcoder/leet-code/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/ptbhatcoder/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/ptbhatcoder/leet-code/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ptbhatcoder/leet-code/tree/master/1402-count-square-submatrices-with-all-ones) |
