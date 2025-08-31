@@ -7,6 +7,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ptbhatcoder/leet-code/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ptbhatcoder/leet-code/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/ptbhatcoder/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/ptbhatcoder/leet-code/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/ptbhatcoder/leet-code/tree/master/0135-candy) |
@@ -128,6 +129,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ptbhatcoder/leet-code/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ptbhatcoder/leet-code/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/ptbhatcoder/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/ptbhatcoder/leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/ptbhatcoder/leet-code/tree/master/0768-partition-labels) |
@@ -385,6 +387,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ptbhatcoder/leet-code/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/ptbhatcoder/leet-code/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/ptbhatcoder/leet-code/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ptbhatcoder/leet-code/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -534,6 +537,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ptbhatcoder/leet-code/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ptbhatcoder/leet-code/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/ptbhatcoder/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/ptbhatcoder/leet-code/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ptbhatcoder/leet-code/tree/master/1402-count-square-submatrices-with-all-ones) |
