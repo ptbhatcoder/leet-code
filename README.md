@@ -40,6 +40,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ptbhatcoder/leet-code/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ptbhatcoder/leet-code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ptbhatcoder/leet-code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1917-maximum-average-pass-ratio](https://github.com/ptbhatcoder/leet-code/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ptbhatcoder/leet-code/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ptbhatcoder/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/ptbhatcoder/leet-code/tree/master/2048-build-array-from-permutation) |
@@ -265,6 +266,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/ptbhatcoder/leet-code/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ptbhatcoder/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2434-design-a-number-container-system](https://github.com/ptbhatcoder/leet-code/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ptbhatcoder/leet-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -408,6 +410,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1448-maximum-69-number](https://github.com/ptbhatcoder/leet-code/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ptbhatcoder/leet-code/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ptbhatcoder/leet-code/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1917-maximum-average-pass-ratio](https://github.com/ptbhatcoder/leet-code/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ptbhatcoder/leet-code/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ptbhatcoder/leet-code/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ptbhatcoder/leet-code/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
