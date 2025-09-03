@@ -97,6 +97,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3194-find-words-containing-character](https://github.com/ptbhatcoder/leet-code/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/ptbhatcoder/leet-code/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ptbhatcoder/leet-code/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ptbhatcoder/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ptbhatcoder/leet-code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/ptbhatcoder/leet-code/tree/master/3321-type-of-triangle) |
@@ -322,6 +323,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3201-distribute-candies-among-children-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/ptbhatcoder/leet-code/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ptbhatcoder/leet-code/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ptbhatcoder/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/ptbhatcoder/leet-code/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/ptbhatcoder/leet-code/tree/master/3548-find-the-count-of-good-integers) |
@@ -361,6 +363,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2888-minimum-index-of-a-valid-split](https://github.com/ptbhatcoder/leet-code/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ptbhatcoder/leet-code/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ptbhatcoder/leet-code/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ptbhatcoder/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ptbhatcoder/leet-code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/ptbhatcoder/leet-code/tree/master/3321-type-of-triangle) |
@@ -667,6 +670,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2215-finding-3-digit-even-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/ptbhatcoder/leet-code/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3201-distribute-candies-among-children-ii) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ptbhatcoder/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/ptbhatcoder/leet-code/tree/master/3548-find-the-count-of-good-integers) |
@@ -732,5 +736,6 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 ## Geometry
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ptbhatcoder/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
