@@ -617,6 +617,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ptbhatcoder/leet-code/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ptbhatcoder/leet-code/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/ptbhatcoder/leet-code/tree/master/2529-range-product-queries-of-powers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ptbhatcoder/leet-code/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ptbhatcoder/leet-code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ptbhatcoder/leet-code/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ptbhatcoder/leet-code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -669,6 +670,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ptbhatcoder/leet-code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ptbhatcoder/leet-code/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/ptbhatcoder/leet-code/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -729,6 +731,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ptbhatcoder/leet-code/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ptbhatcoder/leet-code/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Probability and Statistics
 |  |
 | ------- |
