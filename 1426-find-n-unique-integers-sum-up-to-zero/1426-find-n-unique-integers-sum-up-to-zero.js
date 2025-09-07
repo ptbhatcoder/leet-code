@@ -3,11 +3,14 @@
  * @return {number[]}
  */
 var sumZero = function(n) {
-    const result = new Array(n);
-    const mid = n >> 1;
-    for(let i = 0, cur = -mid ; i < n; i++, cur++){
-        result[i] = cur;
-        if(cur === -1 && !(n & 1)) cur++;
+    const ans = new Array(n);
+    let cur = n >> 1;
+    let s = 0, e = n - 1;
+    while(s < e){
+        ans[s++] = cur;
+        ans[e--] = -cur;
+        cur--; 
     }
-    return result;
+    if(s === e) ans[s] = 0;
+    return ans;
 };
