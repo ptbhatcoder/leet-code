@@ -39,6 +39,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1656-count-good-triplets](https://github.com/ptbhatcoder/leet-code/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/ptbhatcoder/leet-code/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ptbhatcoder/leet-code/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/ptbhatcoder/leet-code/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ptbhatcoder/leet-code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ptbhatcoder/leet-code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/ptbhatcoder/leet-code/tree/master/1917-maximum-average-pass-ratio) |
@@ -150,6 +151,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1500-count-largest-group](https://github.com/ptbhatcoder/leet-code/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ptbhatcoder/leet-code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/ptbhatcoder/leet-code/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/ptbhatcoder/leet-code/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ptbhatcoder/leet-code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ptbhatcoder/leet-code/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ptbhatcoder/leet-code/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -420,6 +422,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1448-maximum-69-number](https://github.com/ptbhatcoder/leet-code/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ptbhatcoder/leet-code/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ptbhatcoder/leet-code/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/ptbhatcoder/leet-code/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/ptbhatcoder/leet-code/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ptbhatcoder/leet-code/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ptbhatcoder/leet-code/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
