@@ -185,6 +185,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ptbhatcoder/leet-code/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ptbhatcoder/leet-code/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3678-design-task-manager](https://github.com/ptbhatcoder/leet-code/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ptbhatcoder/leet-code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ptbhatcoder/leet-code/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ptbhatcoder/leet-code/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -281,6 +282,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1477-product-of-the-last-k-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
 | [2429-design-a-food-rating-system](https://github.com/ptbhatcoder/leet-code/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/ptbhatcoder/leet-code/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/ptbhatcoder/leet-code/tree/master/3678-design-task-manager) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -296,12 +298,14 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ptbhatcoder/leet-code/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/ptbhatcoder/leet-code/tree/master/3647-zero-array-transformation-iii) |
+| [3678-design-task-manager](https://github.com/ptbhatcoder/leet-code/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/ptbhatcoder/leet-code/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/ptbhatcoder/leet-code/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/ptbhatcoder/leet-code/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/ptbhatcoder/leet-code/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ptbhatcoder/leet-code/tree/master/3791-fruits-into-baskets-iii) |
 ## Math
