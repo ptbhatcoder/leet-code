@@ -134,6 +134,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3790-fruits-into-baskets-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ptbhatcoder/leet-code/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/ptbhatcoder/leet-code/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/ptbhatcoder/leet-code/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,6 +192,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ptbhatcoder/leet-code/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ptbhatcoder/leet-code/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/ptbhatcoder/leet-code/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/ptbhatcoder/leet-code/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ptbhatcoder/leet-code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -287,6 +289,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2434-design-a-number-container-system](https://github.com/ptbhatcoder/leet-code/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/ptbhatcoder/leet-code/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/ptbhatcoder/leet-code/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/ptbhatcoder/leet-code/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -312,6 +315,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3678-design-task-manager](https://github.com/ptbhatcoder/leet-code/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ptbhatcoder/leet-code/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/ptbhatcoder/leet-code/tree/master/3827-implement-router) |
 ## Math
 |  |
 | ------- |
@@ -638,6 +642,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3643-zero-array-transformation-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ptbhatcoder/leet-code/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/ptbhatcoder/leet-code/tree/master/3827-implement-router) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -662,6 +667,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ptbhatcoder/leet-code/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ptbhatcoder/leet-code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/ptbhatcoder/leet-code/tree/master/3827-implement-router) |
 ## Union Find
 |  |
 | ------- |
