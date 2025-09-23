@@ -200,6 +200,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/ptbhatcoder/leet-code/tree/master/0038-count-and-say) |
+| [0165-compare-version-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/0165-compare-version-numbers) |
 | [0768-partition-labels](https://github.com/ptbhatcoder/leet-code/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/ptbhatcoder/leet-code/tree/master/0868-push-dominoes) |
 | [1006-vowel-spellchecker](https://github.com/ptbhatcoder/leet-code/tree/master/1006-vowel-spellchecker) |
@@ -573,6 +574,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/0165-compare-version-numbers) |
 | [0768-partition-labels](https://github.com/ptbhatcoder/leet-code/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/ptbhatcoder/leet-code/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ptbhatcoder/leet-code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
