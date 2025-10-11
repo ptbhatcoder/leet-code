@@ -124,6 +124,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3429-special-array-i](https://github.com/ptbhatcoder/leet-code/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/ptbhatcoder/leet-code/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ptbhatcoder/leet-code/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ptbhatcoder/leet-code/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ptbhatcoder/leet-code/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ptbhatcoder/leet-code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -195,6 +196,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3242-count-elements-with-maximum-frequency](https://github.com/ptbhatcoder/leet-code/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ptbhatcoder/leet-code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ptbhatcoder/leet-code/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ptbhatcoder/leet-code/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ptbhatcoder/leet-code/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/ptbhatcoder/leet-code/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -280,6 +282,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ptbhatcoder/leet-code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ptbhatcoder/leet-code/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ptbhatcoder/leet-code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ptbhatcoder/leet-code/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ptbhatcoder/leet-code/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ptbhatcoder/leet-code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -436,6 +439,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3321-type-of-triangle](https://github.com/ptbhatcoder/leet-code/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ptbhatcoder/leet-code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/ptbhatcoder/leet-code/tree/master/3430-count-days-without-meetings) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ptbhatcoder/leet-code/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3647-zero-array-transformation-iii](https://github.com/ptbhatcoder/leet-code/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ptbhatcoder/leet-code/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Data Stream
@@ -601,6 +605,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ptbhatcoder/leet-code/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ptbhatcoder/leet-code/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ptbhatcoder/leet-code/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ptbhatcoder/leet-code/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ptbhatcoder/leet-code/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3618-find-the-original-typed-string-ii) |
@@ -624,6 +629,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ptbhatcoder/leet-code/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ptbhatcoder/leet-code/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ptbhatcoder/leet-code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ptbhatcoder/leet-code/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ptbhatcoder/leet-code/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Matrix
 |  |
@@ -689,6 +695,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2690-house-robber-iv](https://github.com/ptbhatcoder/leet-code/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ptbhatcoder/leet-code/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ptbhatcoder/leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ptbhatcoder/leet-code/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3643-zero-array-transformation-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ptbhatcoder/leet-code/tree/master/3791-fruits-into-baskets-iii) |
