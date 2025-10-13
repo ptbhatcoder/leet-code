@@ -35,6 +35,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1293-three-consecutive-odds](https://github.com/ptbhatcoder/leet-code/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ptbhatcoder/leet-code/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ptbhatcoder/leet-code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/ptbhatcoder/leet-code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/ptbhatcoder/leet-code/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ptbhatcoder/leet-code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ptbhatcoder/leet-code/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -167,6 +168,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1006-vowel-spellchecker](https://github.com/ptbhatcoder/leet-code/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/ptbhatcoder/leet-code/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ptbhatcoder/leet-code/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/ptbhatcoder/leet-code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/ptbhatcoder/leet-code/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ptbhatcoder/leet-code/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ptbhatcoder/leet-code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -227,6 +229,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1170-shortest-common-supersequence](https://github.com/ptbhatcoder/leet-code/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ptbhatcoder/leet-code/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ptbhatcoder/leet-code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/ptbhatcoder/leet-code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ptbhatcoder/leet-code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ptbhatcoder/leet-code/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ptbhatcoder/leet-code/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -420,6 +423,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [0611-valid-triangle-number](https://github.com/ptbhatcoder/leet-code/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/ptbhatcoder/leet-code/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/ptbhatcoder/leet-code/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/ptbhatcoder/leet-code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ptbhatcoder/leet-code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ptbhatcoder/leet-code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ptbhatcoder/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
