@@ -18,8 +18,8 @@ var maxIncreasingSubarrays = function(nums) {
         prev = cur;
         lis[i] = span;
         const next = last +  1;
-        if(next < n && lis[i] <= lis[next]) max = Math.max(max, Math.min(lis[i], lis[next]));
-        if(lis[i] % 2 === 0) max = Math.max(max, lis[i] >> 1);
+        if(next < n && lis[i] <= lis[next]) max = Math.max(max, lis[i]);
+        else if(lis[i] % 2 === 0) max = Math.max(max, lis[i] >> 1);
     }
     return max;
 };
