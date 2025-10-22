@@ -141,6 +141,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ptbhatcoder/leet-code/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/ptbhatcoder/leet-code/tree/master/3639-zero-array-transformation-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/ptbhatcoder/leet-code/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ptbhatcoder/leet-code/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -457,6 +458,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3430-count-days-without-meetings](https://github.com/ptbhatcoder/leet-code/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ptbhatcoder/leet-code/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ptbhatcoder/leet-code/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/ptbhatcoder/leet-code/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ptbhatcoder/leet-code/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Data Stream
@@ -478,6 +480,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3618-find-the-original-typed-string-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ptbhatcoder/leet-code/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/ptbhatcoder/leet-code/tree/master/3639-zero-array-transformation-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/ptbhatcoder/leet-code/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -698,6 +701,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3483-alternating-groups-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ptbhatcoder/leet-code/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Search
 |  |
@@ -720,6 +724,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ptbhatcoder/leet-code/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ptbhatcoder/leet-code/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ptbhatcoder/leet-code/tree/master/3791-fruits-into-baskets-iii) |
