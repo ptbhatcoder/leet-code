@@ -12,13 +12,12 @@ var Bank = function(balance) {
  * @return {boolean}
  */
 Bank.prototype.transfer = function(src, destn, money) {
-    const n = this.balance.length;
-    if(src > n || destn > n) return false;
-    if(src < 1 || destn < 1) return false;
-    if(this.balance[src - 1] < money) return false;
-    this.balance[destn - 1] += money;
-    this.balance[src - 1] -= money;
-    return true;
+    if(this.withdraw(src, money)){
+        if(this.deposit(destn, money)) return true;
+        this.deposit(src, money);
+        return false;
+    }
+    return false;
 };
 
 /** 
