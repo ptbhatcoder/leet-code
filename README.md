@@ -62,6 +62,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ptbhatcoder/leet-code/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ptbhatcoder/leet-code/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ptbhatcoder/leet-code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2169-simple-bank-system](https://github.com/ptbhatcoder/leet-code/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ptbhatcoder/leet-code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ptbhatcoder/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
@@ -186,6 +187,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ptbhatcoder/leet-code/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ptbhatcoder/leet-code/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/ptbhatcoder/leet-code/tree/master/2107-find-unique-binary-string) |
+| [2169-simple-bank-system](https://github.com/ptbhatcoder/leet-code/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ptbhatcoder/leet-code/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ptbhatcoder/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
@@ -311,6 +313,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ptbhatcoder/leet-code/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/ptbhatcoder/leet-code/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ptbhatcoder/leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/ptbhatcoder/leet-code/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ptbhatcoder/leet-code/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ptbhatcoder/leet-code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ptbhatcoder/leet-code/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -327,6 +330,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ptbhatcoder/leet-code/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
+| [2169-simple-bank-system](https://github.com/ptbhatcoder/leet-code/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/ptbhatcoder/leet-code/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/ptbhatcoder/leet-code/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/ptbhatcoder/leet-code/tree/master/3678-design-task-manager) |
