@@ -9,6 +9,7 @@ var getSneakyNumbers = function(nums) {
         const key = num < 0 ? -num-1 : num;
         if(nums[key] < 0) ans.push(key);
         else nums[key] = -nums[key] - 1;
+        if(ans.length >= 2) return ans;
     }
     return ans;
 };
