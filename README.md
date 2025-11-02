@@ -81,6 +81,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/ptbhatcoder/leet-code/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ptbhatcoder/leet-code/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ptbhatcoder/leet-code/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ptbhatcoder/leet-code/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ptbhatcoder/leet-code/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ptbhatcoder/leet-code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ptbhatcoder/leet-code/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -325,6 +326,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ptbhatcoder/leet-code/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ptbhatcoder/leet-code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ptbhatcoder/leet-code/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ptbhatcoder/leet-code/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/ptbhatcoder/leet-code/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ptbhatcoder/leet-code/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -696,6 +698,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1628-count-submatrices-with-all-ones](https://github.com/ptbhatcoder/leet-code/tree/master/1628-count-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ptbhatcoder/leet-code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ptbhatcoder/leet-code/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ptbhatcoder/leet-code/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ptbhatcoder/leet-code/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/ptbhatcoder/leet-code/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
