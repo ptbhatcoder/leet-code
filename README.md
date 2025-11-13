@@ -290,6 +290,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ptbhatcoder/leet-code/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/ptbhatcoder/leet-code/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/ptbhatcoder/leet-code/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ptbhatcoder/leet-code/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/ptbhatcoder/leet-code/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3618-find-the-original-typed-string-ii) |
@@ -323,6 +324,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3242-count-elements-with-maximum-frequency](https://github.com/ptbhatcoder/leet-code/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ptbhatcoder/leet-code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ptbhatcoder/leet-code/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ptbhatcoder/leet-code/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ptbhatcoder/leet-code/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ptbhatcoder/leet-code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -582,6 +584,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ptbhatcoder/leet-code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ptbhatcoder/leet-code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ptbhatcoder/leet-code/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ptbhatcoder/leet-code/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3647-zero-array-transformation-iii](https://github.com/ptbhatcoder/leet-code/tree/master/3647-zero-array-transformation-iii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ptbhatcoder/leet-code/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ptbhatcoder/leet-code/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
