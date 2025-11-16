@@ -6,7 +6,9 @@ const MOD = 7 + 10 ** 9;
 var numSub = function(s) {
     let ans = 0;
     let cur = 0;
-    for(const c of s){
+    const n = s.length;
+    for(let i = 0; i < n; i++){
+        const c = s[i];
         if(c === '0') cur = 0;
         else {
             cur++;
