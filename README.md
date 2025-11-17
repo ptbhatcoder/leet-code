@@ -44,6 +44,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ptbhatcoder/leet-code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ptbhatcoder/leet-code/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ptbhatcoder/leet-code/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ptbhatcoder/leet-code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ptbhatcoder/leet-code/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ptbhatcoder/leet-code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
