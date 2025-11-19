@@ -4,8 +4,7 @@
  * @return {number}
  */
 var findFinalValue = function(nums, original) {
-    const vals = new Set(nums);
     let cur = original;
-    while(vals.has(cur)) cur <<= 1;
+    while(nums.includes(cur)) cur <<= 1;
     return cur;
 };
