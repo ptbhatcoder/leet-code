@@ -203,6 +203,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1834-minimum-number-of-people-to-teach](https://github.com/ptbhatcoder/leet-code/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ptbhatcoder/leet-code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ptbhatcoder/leet-code/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ptbhatcoder/leet-code/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ptbhatcoder/leet-code/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/ptbhatcoder/leet-code/tree/master/2107-find-unique-binary-string) |
 | [2169-simple-bank-system](https://github.com/ptbhatcoder/leet-code/tree/master/2169-simple-bank-system) |
@@ -273,6 +274,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1818-maximum-score-from-removing-substrings](https://github.com/ptbhatcoder/leet-code/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ptbhatcoder/leet-code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ptbhatcoder/leet-code/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ptbhatcoder/leet-code/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ptbhatcoder/leet-code/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/ptbhatcoder/leet-code/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ptbhatcoder/leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -529,6 +531,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ptbhatcoder/leet-code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ptbhatcoder/leet-code/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ptbhatcoder/leet-code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/ptbhatcoder/leet-code/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ptbhatcoder/leet-code/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -817,6 +820,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [0342-power-of-four](https://github.com/ptbhatcoder/leet-code/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ptbhatcoder/leet-code/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ptbhatcoder/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ptbhatcoder/leet-code/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ptbhatcoder/leet-code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ptbhatcoder/leet-code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ptbhatcoder/leet-code/tree/master/2400-minimum-score-after-removals-on-a-tree) |
