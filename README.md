@@ -151,6 +151,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ptbhatcoder/leet-code/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ptbhatcoder/leet-code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ptbhatcoder/leet-code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ptbhatcoder/leet-code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ptbhatcoder/leet-code/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -467,6 +468,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [3321-type-of-triangle](https://github.com/ptbhatcoder/leet-code/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/ptbhatcoder/leet-code/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ptbhatcoder/leet-code/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ptbhatcoder/leet-code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/ptbhatcoder/leet-code/tree/master/3548-find-the-count-of-good-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ptbhatcoder/leet-code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ptbhatcoder/leet-code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
