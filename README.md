@@ -446,6 +446,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1642-water-bottles](https://github.com/ptbhatcoder/leet-code/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ptbhatcoder/leet-code/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ptbhatcoder/leet-code/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1925-count-square-sum-triples](https://github.com/ptbhatcoder/leet-code/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ptbhatcoder/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ptbhatcoder/leet-code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -914,6 +915,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/ptbhatcoder/leet-code/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/ptbhatcoder/leet-code/tree/master/1656-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/ptbhatcoder/leet-code/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ptbhatcoder/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ptbhatcoder/leet-code/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ptbhatcoder/leet-code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
