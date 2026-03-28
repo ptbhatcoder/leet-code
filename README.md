@@ -108,6 +108,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2529-range-product-queries-of-powers](https://github.com/ptbhatcoder/leet-code/tree/master/2529-range-product-queries-of-powers) |
 | [2551-apply-operations-to-an-array](https://github.com/ptbhatcoder/leet-code/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ptbhatcoder/leet-code/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2573-find-the-string-with-lcp](https://github.com/ptbhatcoder/leet-code/tree/master/2573-find-the-string-with-lcp) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ptbhatcoder/leet-code/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ptbhatcoder/leet-code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2625-increment-submatrices-by-one](https://github.com/ptbhatcoder/leet-code/tree/master/2625-increment-submatrices-by-one) |
@@ -304,6 +305,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2456-construct-smallest-number-from-di-string](https://github.com/ptbhatcoder/leet-code/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ptbhatcoder/leet-code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ptbhatcoder/leet-code/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-find-the-string-with-lcp](https://github.com/ptbhatcoder/leet-code/tree/master/2573-find-the-string-with-lcp) |
 | [2887-sort-vowels-in-a-string](https://github.com/ptbhatcoder/leet-code/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ptbhatcoder/leet-code/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -621,6 +623,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ptbhatcoder/leet-code/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ptbhatcoder/leet-code/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ptbhatcoder/leet-code/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-find-the-string-with-lcp](https://github.com/ptbhatcoder/leet-code/tree/master/2573-find-the-string-with-lcp) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ptbhatcoder/leet-code/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/ptbhatcoder/leet-code/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/ptbhatcoder/leet-code/tree/master/2689-rearranging-fruits) |
@@ -734,6 +737,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ptbhatcoder/leet-code/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ptbhatcoder/leet-code/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ptbhatcoder/leet-code/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2573-find-the-string-with-lcp](https://github.com/ptbhatcoder/leet-code/tree/master/2573-find-the-string-with-lcp) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ptbhatcoder/leet-code/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ptbhatcoder/leet-code/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -782,6 +786,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ptbhatcoder/leet-code/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ptbhatcoder/leet-code/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ptbhatcoder/leet-code/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2573-find-the-string-with-lcp](https://github.com/ptbhatcoder/leet-code/tree/master/2573-find-the-string-with-lcp) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ptbhatcoder/leet-code/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2625-increment-submatrices-by-one](https://github.com/ptbhatcoder/leet-code/tree/master/2625-increment-submatrices-by-one) |
 | [3227-find-missing-and-repeated-values](https://github.com/ptbhatcoder/leet-code/tree/master/3227-find-missing-and-repeated-values) |
@@ -1019,4 +1024,8 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ptbhatcoder/leet-code/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ptbhatcoder/leet-code/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Union-Find
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/ptbhatcoder/leet-code/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->
