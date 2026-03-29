@@ -306,6 +306,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ptbhatcoder/leet-code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ptbhatcoder/leet-code/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2573-find-the-string-with-lcp](https://github.com/ptbhatcoder/leet-code/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ptbhatcoder/leet-code/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/ptbhatcoder/leet-code/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ptbhatcoder/leet-code/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ptbhatcoder/leet-code/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
