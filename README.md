@@ -292,6 +292,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ptbhatcoder/leet-code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ptbhatcoder/leet-code/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ptbhatcoder/leet-code/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/ptbhatcoder/leet-code/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ptbhatcoder/leet-code/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/ptbhatcoder/leet-code/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ptbhatcoder/leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -366,6 +367,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1642-water-bottles](https://github.com/ptbhatcoder/leet-code/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ptbhatcoder/leet-code/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/ptbhatcoder/leet-code/tree/master/2048-build-array-from-permutation) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/ptbhatcoder/leet-code/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ptbhatcoder/leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/ptbhatcoder/leet-code/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ptbhatcoder/leet-code/tree/master/2260-divide-a-string-into-groups-of-size-k) |
