@@ -64,6 +64,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1927-maximum-ascending-subarray-sum](https://github.com/ptbhatcoder/leet-code/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ptbhatcoder/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/ptbhatcoder/leet-code/tree/master/2048-build-array-from-permutation) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ptbhatcoder/leet-code/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ptbhatcoder/leet-code/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/ptbhatcoder/leet-code/tree/master/2107-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ptbhatcoder/leet-code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -623,6 +624,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1818-maximum-score-from-removing-substrings](https://github.com/ptbhatcoder/leet-code/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ptbhatcoder/leet-code/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/ptbhatcoder/leet-code/tree/master/1917-maximum-average-pass-ratio) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ptbhatcoder/leet-code/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ptbhatcoder/leet-code/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ptbhatcoder/leet-code/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ptbhatcoder/leet-code/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
