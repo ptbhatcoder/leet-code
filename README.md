@@ -36,6 +36,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ptbhatcoder/leet-code/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ptbhatcoder/leet-code/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ptbhatcoder/leet-code/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1288-remove-covered-intervals](https://github.com/ptbhatcoder/leet-code/tree/master/1288-remove-covered-intervals) |
 | [1293-three-consecutive-odds](https://github.com/ptbhatcoder/leet-code/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ptbhatcoder/leet-code/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ptbhatcoder/leet-code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -530,6 +531,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [0759-set-intersection-size-at-least-two](https://github.com/ptbhatcoder/leet-code/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-reordered-power-of-2](https://github.com/ptbhatcoder/leet-code/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/ptbhatcoder/leet-code/tree/master/1018-largest-perimeter-triangle) |
+| [1288-remove-covered-intervals](https://github.com/ptbhatcoder/leet-code/tree/master/1288-remove-covered-intervals) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ptbhatcoder/leet-code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ptbhatcoder/leet-code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ptbhatcoder/leet-code/tree/master/2141-maximum-running-time-of-n-computers) |
