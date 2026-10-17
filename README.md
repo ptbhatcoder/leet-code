@@ -7,6 +7,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ptbhatcoder/leet-code/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ptbhatcoder/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ptbhatcoder/leet-code/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/ptbhatcoder/leet-code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ptbhatcoder/leet-code/tree/master/0037-sudoku-solver) |
@@ -708,6 +709,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ptbhatcoder/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ptbhatcoder/leet-code/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ptbhatcoder/leet-code/tree/master/2280-count-good-triplets-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ptbhatcoder/leet-code/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -850,6 +852,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ptbhatcoder/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0611-valid-triangle-number](https://github.com/ptbhatcoder/leet-code/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/ptbhatcoder/leet-code/tree/master/0794-swim-in-rising-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ptbhatcoder/leet-code/tree/master/1335-maximum-candies-allocated-to-k-children) |
