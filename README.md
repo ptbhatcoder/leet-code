@@ -196,6 +196,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ptbhatcoder/leet-code/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ptbhatcoder/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/ptbhatcoder/leet-code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ptbhatcoder/leet-code/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/ptbhatcoder/leet-code/tree/master/0073-set-matrix-zeroes) |
@@ -275,6 +276,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ptbhatcoder/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/ptbhatcoder/leet-code/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ptbhatcoder/leet-code/tree/master/0166-fraction-to-recurring-decimal) |
@@ -823,6 +825,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ptbhatcoder/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/ptbhatcoder/leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/ptbhatcoder/leet-code/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/ptbhatcoder/leet-code/tree/master/0940-fruit-into-baskets) |
