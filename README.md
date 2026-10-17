@@ -438,6 +438,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/0002-add-two-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ptbhatcoder/leet-code/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/ptbhatcoder/leet-code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ptbhatcoder/leet-code/tree/master/0326-power-of-three) |
@@ -966,6 +967,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/ptbhatcoder/leet-code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ptbhatcoder/leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ptbhatcoder/leet-code/tree/master/0342-power-of-four) |
@@ -1005,6 +1007,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/0002-add-two-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ptbhatcoder/leet-code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ptbhatcoder/leet-code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Function
