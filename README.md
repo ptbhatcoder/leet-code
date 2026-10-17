@@ -6,6 +6,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ptbhatcoder/leet-code/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ptbhatcoder/leet-code/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/ptbhatcoder/leet-code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ptbhatcoder/leet-code/tree/master/0037-sudoku-solver) |
@@ -194,6 +195,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ptbhatcoder/leet-code/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/ptbhatcoder/leet-code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ptbhatcoder/leet-code/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/ptbhatcoder/leet-code/tree/master/0073-set-matrix-zeroes) |
