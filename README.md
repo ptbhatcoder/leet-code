@@ -278,6 +278,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ptbhatcoder/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/ptbhatcoder/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/ptbhatcoder/leet-code/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ptbhatcoder/leet-code/tree/master/0166-fraction-to-recurring-decimal) |
@@ -730,6 +731,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ptbhatcoder/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/ptbhatcoder/leet-code/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ptbhatcoder/leet-code/tree/master/0120-triangle) |
 | [0368-largest-divisible-subset](https://github.com/ptbhatcoder/leet-code/tree/master/0368-largest-divisible-subset) |
@@ -775,6 +777,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ptbhatcoder/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ptbhatcoder/leet-code/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/ptbhatcoder/leet-code/tree/master/0611-valid-triangle-number) |
@@ -1051,4 +1054,8 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 |  |
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/ptbhatcoder/leet-code/tree/master/2573-find-the-string-with-lcp) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ptbhatcoder/leet-code/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
