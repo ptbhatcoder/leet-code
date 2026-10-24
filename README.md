@@ -444,6 +444,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ptbhatcoder/leet-code/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/ptbhatcoder/leet-code/tree/master/0007-reverse-integer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ptbhatcoder/leet-code/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/ptbhatcoder/leet-code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ptbhatcoder/leet-code/tree/master/0326-power-of-three) |
