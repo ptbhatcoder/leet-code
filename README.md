@@ -38,6 +38,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ptbhatcoder/leet-code/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ptbhatcoder/leet-code/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ptbhatcoder/leet-code/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1267-count-servers-that-communicate](https://github.com/ptbhatcoder/leet-code/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/ptbhatcoder/leet-code/tree/master/1288-remove-covered-intervals) |
 | [1293-three-consecutive-odds](https://github.com/ptbhatcoder/leet-code/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ptbhatcoder/leet-code/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -353,6 +354,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [0900-reordered-power-of-2](https://github.com/ptbhatcoder/leet-code/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/ptbhatcoder/leet-code/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ptbhatcoder/leet-code/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1267-count-servers-that-communicate](https://github.com/ptbhatcoder/leet-code/tree/master/1267-count-servers-that-communicate) |
 | [1364-tuple-with-same-product](https://github.com/ptbhatcoder/leet-code/tree/master/1364-tuple-with-same-product) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ptbhatcoder/leet-code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ptbhatcoder/leet-code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -681,6 +683,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [0417-pacific-atlantic-water-flow](https://github.com/ptbhatcoder/leet-code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/ptbhatcoder/leet-code/tree/master/0794-swim-in-rising-water) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ptbhatcoder/leet-code/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1267-count-servers-that-communicate](https://github.com/ptbhatcoder/leet-code/tree/master/1267-count-servers-that-communicate) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ptbhatcoder/leet-code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ptbhatcoder/leet-code/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ptbhatcoder/leet-code/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -697,6 +700,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [0417-pacific-atlantic-water-flow](https://github.com/ptbhatcoder/leet-code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/ptbhatcoder/leet-code/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/ptbhatcoder/leet-code/tree/master/0945-snakes-and-ladders) |
+| [1267-count-servers-that-communicate](https://github.com/ptbhatcoder/leet-code/tree/master/1267-count-servers-that-communicate) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ptbhatcoder/leet-code/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ptbhatcoder/leet-code/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ptbhatcoder/leet-code/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -806,6 +810,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [0417-pacific-atlantic-water-flow](https://github.com/ptbhatcoder/leet-code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/ptbhatcoder/leet-code/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/ptbhatcoder/leet-code/tree/master/0945-snakes-and-ladders) |
+| [1267-count-servers-that-communicate](https://github.com/ptbhatcoder/leet-code/tree/master/1267-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ptbhatcoder/leet-code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ptbhatcoder/leet-code/tree/master/1628-count-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ptbhatcoder/leet-code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1057,6 +1062,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/ptbhatcoder/leet-code/tree/master/1267-count-servers-that-communicate) |
 | [2573-find-the-string-with-lcp](https://github.com/ptbhatcoder/leet-code/tree/master/2573-find-the-string-with-lcp) |
 ## Manacher
 |  |
