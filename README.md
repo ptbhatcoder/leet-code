@@ -53,6 +53,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 | [1510-find-lucky-integer-in-an-array](https://github.com/ptbhatcoder/leet-code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ptbhatcoder/leet-code/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/ptbhatcoder/leet-code/tree/master/1590-make-sum-divisible-by-p) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ptbhatcoder/leet-code/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ptbhatcoder/leet-code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ptbhatcoder/leet-code/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ptbhatcoder/leet-code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -377,6 +378,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ptbhatcoder/leet-code/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1642-water-bottles](https://github.com/ptbhatcoder/leet-code/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ptbhatcoder/leet-code/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/ptbhatcoder/leet-code/tree/master/2048-build-array-from-permutation) |
@@ -416,6 +418,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/ptbhatcoder/leet-code/tree/master/0794-swim-in-rising-water) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ptbhatcoder/leet-code/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1917-maximum-average-pass-ratio](https://github.com/ptbhatcoder/leet-code/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ptbhatcoder/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/ptbhatcoder/leet-code/tree/master/2429-design-a-food-rating-system) |
@@ -435,6 +438,7 @@ Live list showcasing a collection of LeetCode questions to ace the coding interv
 ## Ordered Set
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ptbhatcoder/leet-code/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ptbhatcoder/leet-code/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/ptbhatcoder/leet-code/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/ptbhatcoder/leet-code/tree/master/2434-design-a-number-container-system) |
